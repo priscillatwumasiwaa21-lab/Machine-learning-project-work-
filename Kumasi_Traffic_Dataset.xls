@@ -1,0 +1,1001 @@
+record_id,road,location,day_of_week,time,time_period,is_weekend,vehicle_flow,vehicle_density,rainfall,road_condition,roadside_activity,traffic_signal,lane_reduction,traffic_level
+1,Kumasi-Mampong Road,Suame,Sunday,14:00,Midday,1,214,22.4,0,Good,Low,No,No,Low
+2,Kumasi-Offinso Road,Anloga Junction,Monday,12:30,Midday,0,361,28.7,0,Good,Medium,Yes,No,Low
+3,Kumasi-Offinso Road,Offinso Junction,Sunday,19:30,Night,1,216,16.6,0,Poor,Medium,Yes,Yes,Low
+4,Kumasi-Accra Road,Asokwa,Monday,16:45,Evening Peak,0,524,56.1,1,Good,Low,Yes,Yes,Medium
+5,Kumasi-Mampong Road,Suame,Saturday,22:00,Night,1,295,34.1,0,Fair,Medium,Yes,No,Low
+6,Sunyani Road,Sofoline,Thursday,12:00,Midday,0,342,34.4,0,Fair,Medium,No,No,Low
+7,Kumasi-Offinso Road,Offinso Junction,Thursday,12:00,Midday,0,340,34.3,0,Poor,High,No,No,Medium
+8,Sunyani Road,Sofoline,Thursday,21:30,Night,0,345,31.4,0,Fair,Low,Yes,No,Low
+9,Kumasi-Accra Road,Asokwa,Sunday,15:30,Evening Peak,1,452,40.8,1,Good,Medium,Yes,No,Medium
+10,Kumasi-Offinso Road,Anloga Junction,Wednesday,09:30,Morning Peak,0,334,35.4,0,Good,Medium,Yes,No,Medium
+11,Kumasi-Accra Road,Oforikrom,Tuesday,08:30,Morning Peak,0,519,58.7,0,Poor,Low,Yes,No,Medium
+12,Kumasi-Offinso Road,Techiman Junction,Saturday,10:00,Midday,1,223,23.3,0,Good,Low,Yes,No,Low
+13,Kumasi-Mampong Road,Suame,Monday,07:30,Morning Peak,0,715,67.9,0,Good,High,No,No,Medium
+14,Kumasi-Ejisu Road,Ayigya,Saturday,15:00,Evening Peak,1,383,34.0,1,Good,Low,No,No,Medium
+15,Sunyani Road,Abrepo Junction,Thursday,10:30,Midday,0,363,39.7,1,Good,Low,Yes,No,Low
+16,Kumasi-Accra Road,Oforikrom,Monday,17:30,Evening Peak,0,610,65.2,0,Good,Medium,No,No,Medium
+17,Kumasi-Mampong Road,Mampong Junction,Monday,22:00,Night,0,257,20.0,0,Fair,Medium,Yes,No,Low
+18,Kumasi-Offinso Road,Anloga Junction,Monday,21:30,Night,0,194,18.6,1,Good,Low,Yes,No,Low
+19,Kumasi-Ejisu Road,Ejisu Junction,Saturday,09:15,Morning Peak,1,396,34.6,0,Good,Low,Yes,No,Medium
+20,Kumasi-Ejisu Road,Ejisu Junction,Tuesday,06:00,Early Morning,0,402,31.9,0,Good,Medium,Yes,Yes,Medium
+21,Kumasi-Mampong Road,Tafo,Tuesday,10:15,Midday,0,349,43.7,0,Good,Medium,Yes,Yes,Low
+22,Kumasi-Offinso Road,Anloga Junction,Sunday,16:00,Evening Peak,1,369,34.8,0,Good,Medium,Yes,No,Medium
+23,Kumasi-Ejisu Road,Ayigya,Tuesday,20:30,Night,0,318,35.1,0,Fair,Low,No,No,Low
+24,Kumasi-Offinso Road,Anloga Junction,Friday,20:00,Night,0,343,46.0,0,Good,Medium,No,Yes,Low
+25,Kumasi-Mampong Road,Suame,Saturday,21:15,Night,1,266,23.6,0,Fair,Low,Yes,No,Low
+26,Kumasi-Ejisu Road,Ayigya,Thursday,13:45,Midday,0,396,36.5,0,Fair,Low,No,No,Low
+27,Kumasi-Mampong Road,Suame,Friday,17:15,Evening Peak,0,462,56.3,0,Good,Medium,Yes,No,Medium
+28,Kumasi-Ejisu Road,Ayigya,Wednesday,22:45,Night,0,488,58.1,0,Poor,Medium,Yes,No,Low
+29,Kumasi-Offinso Road,Anloga Junction,Sunday,21:00,Night,1,252,29.6,0,Good,Medium,Yes,No,Low
+30,Sunyani Road,Tanoso,Thursday,05:45,Early Morning,0,335,25.8,1,Poor,Medium,No,No,Low
+31,Sunyani Road,Tanoso,Friday,20:15,Night,0,461,58.3,0,Good,Medium,No,No,Low
+32,Kumasi-Offinso Road,Techiman Junction,Monday,09:15,Morning Peak,0,366,30.6,0,Good,Low,Yes,No,Low
+33,Kumasi-Mampong Road,Tafo,Thursday,14:45,Midday,0,452,53.7,0,Good,High,Yes,No,Low
+34,Sunyani Road,Tanoso,Monday,14:45,Midday,0,367,31.3,1,Good,Low,No,No,Low
+35,Kumasi-Mampong Road,Mampong Junction,Wednesday,15:15,Evening Peak,0,502,37.8,0,Good,Low,No,No,Low
+36,Kumasi-Mampong Road,Suame,Tuesday,18:15,Evening Peak,0,376,39.9,0,Good,Low,Yes,No,Low
+37,Kumasi-Mampong Road,Suame,Thursday,19:15,Night,0,267,27.1,0,Poor,Medium,Yes,No,Low
+38,Sunyani Road,Abrepo Junction,Sunday,05:00,Early Morning,1,448,43.9,1,Good,High,Yes,Yes,Medium
+39,Kumasi-Offinso Road,Offinso Junction,Friday,19:15,Night,0,301,28.1,1,Good,Medium,Yes,No,Low
+40,Kumasi-Mampong Road,Mampong Junction,Sunday,08:15,Morning Peak,1,275,34.8,0,Fair,Low,No,No,Low
+41,Kumasi-Offinso Road,Techiman Junction,Tuesday,12:30,Midday,0,408,41.5,0,Good,Medium,Yes,No,Low
+42,Sunyani Road,Tanoso,Thursday,09:00,Morning Peak,0,780,74.4,1,Good,High,Yes,No,High
+43,Kumasi-Accra Road,Kaase,Wednesday,10:30,Midday,0,414,39.1,0,Good,Low,No,No,Low
+44,Kumasi-Ejisu Road,Ayigya,Tuesday,12:00,Midday,0,272,27.1,0,Good,Low,Yes,No,Low
+45,Kumasi-Ejisu Road,Ayigya,Wednesday,06:00,Early Morning,0,431,31.0,0,Fair,Medium,Yes,No,Low
+46,Kumasi-Ejisu Road,Ejisu Junction,Saturday,07:15,Morning Peak,1,392,38.5,0,Good,Medium,No,No,Medium
+47,Kumasi-Accra Road,Kaase,Monday,22:15,Night,0,331,27.5,0,Fair,Low,Yes,No,Low
+48,Kumasi-Offinso Road,Techiman Junction,Sunday,17:15,Evening Peak,1,437,36.3,0,Fair,Medium,Yes,No,Medium
+49,Kumasi-Offinso Road,Techiman Junction,Friday,05:00,Early Morning,0,248,18.2,0,Good,Low,Yes,No,Low
+50,Kumasi-Accra Road,Kaase,Sunday,22:45,Night,1,382,32.1,0,Good,High,No,No,Low
+51,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,09:00,Morning Peak,0,477,42.2,1,Good,Low,Yes,No,Medium
+52,Kumasi-Offinso Road,Techiman Junction,Wednesday,15:30,Evening Peak,0,530,59.8,0,Good,Medium,Yes,No,Medium
+53,Kumasi-Offinso Road,Anloga Junction,Monday,05:30,Early Morning,0,293,33.2,0,Good,Low,No,No,Low
+54,Sunyani Road,Abrepo Junction,Thursday,22:30,Night,0,380,45.0,1,Good,Low,Yes,No,Low
+55,Kumasi-Ejisu Road,Ayigya,Tuesday,14:15,Midday,0,388,42.6,0,Good,Medium,Yes,No,Low
+56,Kumasi-Accra Road,Asokwa,Saturday,12:45,Midday,1,490,44.2,0,Good,High,Yes,No,Low
+57,Kumasi-Mampong Road,Tafo,Tuesday,07:30,Morning Peak,0,556,59.5,1,Good,Medium,Yes,No,Medium
+58,Kumasi-Mampong Road,Suame,Tuesday,12:30,Midday,0,291,26.7,0,Fair,Medium,No,No,Low
+59,Kumasi-Accra Road,Asokwa,Friday,07:00,Morning Peak,0,736,85.3,0,Fair,High,Yes,No,High
+60,Kumasi-Ejisu Road,Ayigya,Saturday,14:15,Midday,1,460,47.6,1,Poor,Medium,Yes,No,Low
+61,Kumasi-Offinso Road,Anloga Junction,Tuesday,15:00,Evening Peak,0,362,20.4,0,Good,Medium,No,No,Medium
+62,Kumasi-Accra Road,Kaase,Wednesday,05:45,Early Morning,0,389,42.8,0,Poor,Medium,Yes,No,Low
+63,Sunyani Road,Tanoso,Monday,20:30,Night,0,375,33.1,0,Fair,Low,Yes,No,Low
+64,Kumasi-Accra Road,Kaase,Tuesday,08:45,Morning Peak,0,635,67.3,0,Good,Medium,Yes,No,High
+65,Kumasi-Ejisu Road,Ayigya,Sunday,18:15,Evening Peak,1,708,73.5,1,Good,Medium,Yes,No,High
+66,Kumasi-Accra Road,Kaase,Monday,17:45,Evening Peak,0,788,84.3,0,Good,Medium,No,No,High
+67,Kumasi-Ejisu Road,Ejisu Junction,Tuesday,05:00,Early Morning,0,404,46.6,0,Good,Medium,Yes,No,Low
+68,Kumasi-Accra Road,Kaase,Sunday,18:00,Evening Peak,1,474,33.7,0,Fair,Medium,No,No,Medium
+69,Sunyani Road,Abrepo Junction,Wednesday,06:00,Early Morning,0,320,37.2,0,Fair,Low,Yes,No,Low
+70,Kumasi-Offinso Road,Offinso Junction,Saturday,07:15,Morning Peak,1,391,38.5,0,Good,Medium,No,No,Low
+71,Kumasi-Offinso Road,Offinso Junction,Tuesday,19:15,Night,0,327,29.6,0,Fair,Medium,Yes,No,Low
+72,Kumasi-Accra Road,Asokwa,Tuesday,22:00,Night,0,341,42.0,0,Good,Low,No,No,Low
+73,Sunyani Road,Sofoline,Friday,11:00,Midday,0,286,37.2,0,Fair,Medium,No,No,Low
+74,Sunyani Road,Sofoline,Monday,07:30,Morning Peak,0,768,71.4,0,Good,High,No,No,Medium
+75,Kumasi-Ejisu Road,Ayigya,Thursday,11:00,Midday,0,539,66.4,1,Good,Medium,No,No,Low
+76,Sunyani Road,Tanoso,Tuesday,14:15,Midday,0,361,37.7,1,Good,Medium,Yes,No,Low
+77,Kumasi-Ejisu Road,Ejisu Junction,Friday,11:30,Midday,0,514,55.9,0,Fair,High,Yes,No,Low
+78,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,08:15,Morning Peak,0,843,88.1,0,Good,Medium,No,Yes,High
+79,Kumasi-Ejisu Road,KNUST Gate,Monday,15:00,Evening Peak,0,411,32.4,0,Good,Medium,Yes,No,Medium
+80,Kumasi-Ejisu Road,Ayigya,Friday,21:45,Night,0,597,61.4,0,Fair,High,Yes,No,Low
+81,Kumasi-Accra Road,Asokwa,Monday,07:00,Morning Peak,0,1075,102.6,1,Fair,High,No,No,High
+82,Kumasi-Ejisu Road,Ejisu Junction,Tuesday,08:00,Morning Peak,0,564,72.1,0,Fair,Low,Yes,No,Medium
+83,Kumasi-Accra Road,Kaase,Thursday,19:30,Night,0,553,53.7,1,Fair,High,No,No,Medium
+84,Kumasi-Offinso Road,Techiman Junction,Tuesday,22:45,Night,0,511,53.5,0,Good,High,Yes,No,Low
+85,Kumasi-Accra Road,Oforikrom,Friday,06:45,Early Morning,0,615,56.5,1,Fair,High,No,No,Medium
+86,Kumasi-Accra Road,Asokwa,Thursday,21:00,Night,0,533,45.6,1,Good,High,Yes,No,Medium
+87,Kumasi-Offinso Road,Anloga Junction,Thursday,07:15,Morning Peak,0,353,38.1,0,Fair,Low,Yes,Yes,Medium
+88,Kumasi-Ejisu Road,Ayigya,Tuesday,18:30,Evening Peak,0,904,105.4,1,Good,High,No,Yes,High
+89,Sunyani Road,Abrepo Junction,Tuesday,11:15,Midday,0,388,31.5,1,Fair,Medium,No,No,Medium
+90,Kumasi-Accra Road,Kaase,Tuesday,08:15,Morning Peak,0,401,35.5,0,Poor,Low,No,No,Medium
+91,Kumasi-Mampong Road,Tafo,Wednesday,12:00,Midday,0,288,28.3,1,Good,Medium,No,No,Low
+92,Kumasi-Ejisu Road,Ayigya,Wednesday,05:45,Early Morning,0,442,38.7,0,Fair,Medium,No,No,Low
+93,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,22:45,Night,0,346,43.8,0,Poor,Medium,No,No,Low
+94,Kumasi-Mampong Road,Mampong Junction,Saturday,19:15,Night,1,295,19.5,1,Good,Medium,Yes,Yes,Medium
+95,Kumasi-Offinso Road,Anloga Junction,Monday,16:00,Evening Peak,0,385,31.2,0,Good,Low,Yes,No,Low
+96,Kumasi-Ejisu Road,KNUST Gate,Thursday,06:00,Early Morning,0,364,28.6,0,Good,Low,Yes,No,Low
+97,Kumasi-Ejisu Road,KNUST Gate,Sunday,15:45,Evening Peak,1,455,37.9,0,Fair,Low,No,Yes,Medium
+98,Kumasi-Mampong Road,Tafo,Thursday,12:45,Midday,0,346,26.1,0,Fair,Medium,Yes,Yes,Medium
+99,Kumasi-Mampong Road,Suame,Monday,21:15,Night,0,409,33.1,0,Good,Medium,No,No,Low
+100,Kumasi-Accra Road,Kaase,Friday,20:30,Night,0,373,35.0,0,Fair,Low,No,No,Low
+101,Kumasi-Mampong Road,Tafo,Monday,10:45,Midday,0,324,28.6,0,Good,Medium,Yes,No,Low
+102,Kumasi-Offinso Road,Offinso Junction,Monday,11:45,Midday,0,301,29.1,0,Fair,Medium,Yes,No,Low
+103,Kumasi-Mampong Road,Suame,Sunday,06:15,Early Morning,1,225,20.2,0,Fair,Low,Yes,No,Low
+104,Kumasi-Accra Road,Asokwa,Wednesday,07:15,Morning Peak,0,550,51.7,0,Good,Medium,Yes,No,Medium
+105,Kumasi-Offinso Road,Offinso Junction,Friday,15:00,Evening Peak,0,469,55.0,1,Fair,Medium,No,No,Medium
+106,Kumasi-Offinso Road,Techiman Junction,Friday,05:30,Early Morning,0,257,22.2,0,Poor,Low,Yes,Yes,Medium
+107,Kumasi-Accra Road,Asokwa,Sunday,16:45,Evening Peak,1,365,30.0,0,Good,Low,No,No,Low
+108,Kumasi-Offinso Road,Offinso Junction,Saturday,07:30,Morning Peak,1,344,41.7,1,Good,Low,Yes,No,Medium
+109,Kumasi-Mampong Road,Suame,Monday,14:45,Midday,0,374,31.3,0,Good,Medium,No,Yes,Low
+110,Kumasi-Offinso Road,Anloga Junction,Sunday,05:45,Early Morning,1,299,26.5,0,Fair,High,Yes,No,Low
+111,Sunyani Road,Sofoline,Sunday,06:15,Early Morning,1,247,27.7,0,Fair,Medium,Yes,No,Low
+112,Kumasi-Ejisu Road,KNUST Gate,Saturday,05:00,Early Morning,1,289,21.6,1,Good,Medium,Yes,No,Medium
+113,Kumasi-Accra Road,Kaase,Saturday,09:30,Morning Peak,1,396,47.5,0,Good,Low,No,No,Low
+114,Kumasi-Offinso Road,Techiman Junction,Wednesday,08:00,Morning Peak,0,418,36.6,0,Good,Medium,No,No,Medium
+115,Sunyani Road,Sofoline,Thursday,07:15,Morning Peak,0,442,44.8,0,Fair,Low,Yes,No,Medium
+116,Sunyani Road,Sofoline,Tuesday,14:30,Midday,0,389,27.8,0,Good,Medium,No,No,Low
+117,Kumasi-Ejisu Road,Ejisu Junction,Friday,16:45,Evening Peak,0,872,94.9,1,Good,Medium,Yes,No,High
+118,Kumasi-Mampong Road,Tafo,Monday,19:15,Night,0,443,37.2,0,Fair,Medium,Yes,No,Low
+119,Kumasi-Accra Road,Kaase,Friday,09:15,Morning Peak,0,621,55.4,0,Fair,Medium,No,No,Medium
+120,Kumasi-Offinso Road,Techiman Junction,Thursday,19:45,Night,0,251,21.0,0,Good,Low,Yes,Yes,Low
+121,Kumasi-Offinso Road,Techiman Junction,Tuesday,13:00,Midday,0,285,29.8,0,Good,Low,Yes,No,Low
+122,Kumasi-Mampong Road,Tafo,Thursday,19:00,Night,0,334,33.2,0,Good,Medium,Yes,No,Low
+123,Kumasi-Offinso Road,Offinso Junction,Thursday,14:45,Midday,0,477,54.3,1,Good,High,Yes,No,Medium
+124,Kumasi-Mampong Road,Tafo,Friday,15:30,Evening Peak,0,353,29.7,0,Good,Low,No,No,Low
+125,Kumasi-Accra Road,Asokwa,Wednesday,15:45,Evening Peak,0,479,52.1,0,Poor,Low,No,No,Low
+126,Kumasi-Offinso Road,Offinso Junction,Tuesday,11:30,Midday,0,438,36.1,0,Poor,Medium,No,No,Low
+127,Kumasi-Mampong Road,Mampong Junction,Wednesday,06:00,Early Morning,0,393,28.1,0,Good,Medium,Yes,No,Low
+128,Kumasi-Offinso Road,Offinso Junction,Saturday,21:15,Night,1,275,18.9,0,Good,Medium,Yes,No,Low
+129,Sunyani Road,Tanoso,Wednesday,05:00,Early Morning,0,345,28.6,0,Good,Low,No,Yes,Low
+130,Kumasi-Mampong Road,Suame,Thursday,18:15,Evening Peak,0,498,35.6,0,Good,High,Yes,No,Medium
+131,Kumasi-Offinso Road,Techiman Junction,Friday,08:30,Morning Peak,0,346,31.5,0,Fair,Medium,No,No,Low
+132,Kumasi-Offinso Road,Anloga Junction,Tuesday,19:45,Night,0,355,37.8,0,Good,Medium,Yes,No,Low
+133,Kumasi-Accra Road,Oforikrom,Friday,15:15,Evening Peak,0,425,32.5,0,Poor,Low,Yes,No,Medium
+134,Kumasi-Mampong Road,Mampong Junction,Sunday,09:15,Morning Peak,1,307,32.1,0,Fair,Low,Yes,No,Low
+135,Sunyani Road,Tanoso,Wednesday,05:30,Early Morning,0,425,31.8,0,Good,High,No,No,Medium
+136,Kumasi-Accra Road,Kaase,Wednesday,07:00,Morning Peak,0,520,56.4,0,Fair,Low,Yes,Yes,Medium
+137,Kumasi-Accra Road,Oforikrom,Thursday,16:00,Evening Peak,0,615,57.8,0,Good,Low,No,No,Medium
+138,Kumasi-Accra Road,Asokwa,Sunday,06:15,Early Morning,1,348,27.2,0,Good,Medium,Yes,No,Low
+139,Kumasi-Accra Road,Asokwa,Saturday,06:00,Early Morning,1,217,26.9,0,Fair,Low,No,No,Low
+140,Kumasi-Accra Road,Oforikrom,Saturday,15:00,Evening Peak,1,583,50.0,0,Good,Medium,No,No,Medium
+141,Kumasi-Offinso Road,Anloga Junction,Monday,12:30,Midday,0,326,35.2,0,Fair,Medium,No,No,Low
+142,Kumasi-Accra Road,Oforikrom,Thursday,11:15,Midday,0,523,46.7,0,Fair,Medium,No,No,Low
+143,Kumasi-Ejisu Road,KNUST Gate,Tuesday,15:15,Evening Peak,0,584,43.9,0,Poor,Medium,Yes,No,High
+144,Kumasi-Offinso Road,Techiman Junction,Saturday,11:00,Midday,1,208,17.2,0,Good,Low,Yes,No,Low
+145,Kumasi-Mampong Road,Suame,Saturday,14:45,Midday,1,213,22.4,0,Fair,Low,Yes,No,Low
+146,Kumasi-Accra Road,Asokwa,Friday,16:15,Evening Peak,0,525,56.6,0,Fair,Medium,Yes,No,Medium
+147,Kumasi-Accra Road,Kaase,Sunday,10:45,Midday,1,409,34.7,0,Good,Medium,Yes,No,Low
+148,Sunyani Road,Sofoline,Tuesday,09:00,Morning Peak,0,503,52.5,0,Fair,Medium,No,No,Low
+149,Kumasi-Mampong Road,Suame,Friday,07:45,Morning Peak,0,584,68.7,0,Good,Medium,Yes,No,Medium
+150,Kumasi-Mampong Road,Suame,Thursday,20:45,Night,0,262,19.4,0,Good,Low,Yes,No,Low
+151,Sunyani Road,Sofoline,Saturday,15:00,Evening Peak,1,559,64.1,1,Good,Medium,Yes,No,High
+152,Kumasi-Ejisu Road,Ejisu Junction,Thursday,20:15,Night,0,363,35.2,0,Good,Medium,No,No,Low
+153,Kumasi-Accra Road,Oforikrom,Friday,15:00,Evening Peak,0,580,75.6,0,Good,Low,Yes,No,Medium
+154,Kumasi-Mampong Road,Tafo,Wednesday,05:15,Early Morning,0,306,31.0,0,Fair,Low,No,No,Low
+155,Kumasi-Ejisu Road,Ejisu Junction,Friday,18:30,Evening Peak,0,507,55.1,0,Fair,Medium,Yes,No,Medium
+156,Kumasi-Mampong Road,Tafo,Thursday,21:15,Night,0,586,75.2,0,Good,High,Yes,No,Medium
+157,Kumasi-Mampong Road,Suame,Tuesday,17:15,Evening Peak,0,467,53.6,0,Good,Medium,Yes,No,Medium
+158,Kumasi-Mampong Road,Suame,Friday,05:30,Early Morning,0,370,28.2,1,Good,Low,No,No,Low
+159,Kumasi-Accra Road,Asokwa,Monday,15:30,Evening Peak,0,523,42.7,0,Fair,Medium,Yes,No,Medium
+160,Sunyani Road,Tanoso,Friday,19:15,Night,0,507,46.9,0,Good,High,Yes,No,Low
+161,Kumasi-Mampong Road,Tafo,Tuesday,21:00,Night,0,357,41.8,0,Good,High,Yes,No,Low
+162,Kumasi-Accra Road,Asokwa,Tuesday,22:45,Night,0,470,42.5,0,Fair,Medium,No,No,Low
+163,Sunyani Road,Sofoline,Thursday,12:30,Midday,0,272,25.6,0,Fair,Low,Yes,Yes,Low
+164,Kumasi-Accra Road,Asokwa,Monday,21:00,Night,0,580,65.7,0,Fair,High,No,No,Low
+165,Kumasi-Accra Road,Kaase,Sunday,12:15,Midday,1,395,33.5,0,Good,High,Yes,No,Low
+166,Sunyani Road,Tanoso,Saturday,12:15,Midday,1,407,43.1,0,Fair,High,No,No,Low
+167,Kumasi-Offinso Road,Anloga Junction,Thursday,06:00,Early Morning,0,334,37.9,0,Good,Low,Yes,No,Low
+168,Sunyani Road,Sofoline,Saturday,06:30,Early Morning,1,447,39.1,0,Good,High,Yes,No,Low
+169,Kumasi-Offinso Road,Anloga Junction,Wednesday,15:00,Evening Peak,0,468,54.2,0,Poor,Medium,No,No,Medium
+170,Kumasi-Mampong Road,Tafo,Sunday,05:15,Early Morning,1,433,53.3,0,Good,High,Yes,No,Low
+171,Kumasi-Mampong Road,Suame,Wednesday,16:45,Evening Peak,0,427,37.2,0,Fair,Medium,No,Yes,Medium
+172,Kumasi-Accra Road,Kaase,Thursday,07:00,Morning Peak,0,506,58.7,0,Good,Low,No,No,Low
+173,Sunyani Road,Abrepo Junction,Wednesday,18:00,Evening Peak,0,525,64.3,0,Fair,Medium,Yes,No,Medium
+174,Sunyani Road,Sofoline,Wednesday,10:30,Midday,0,373,31.5,0,Fair,High,Yes,No,Low
+175,Kumasi-Offinso Road,Anloga Junction,Thursday,22:00,Night,0,417,34.6,1,Poor,High,Yes,No,Medium
+176,Kumasi-Mampong Road,Tafo,Monday,16:00,Evening Peak,0,552,48.2,0,Good,Medium,Yes,Yes,Medium
+177,Kumasi-Ejisu Road,KNUST Gate,Wednesday,14:15,Midday,0,428,42.5,0,Good,Low,Yes,No,Low
+178,Kumasi-Ejisu Road,Ayigya,Monday,17:30,Evening Peak,0,544,45.7,0,Fair,Low,Yes,No,Low
+179,Kumasi-Accra Road,Asokwa,Thursday,14:30,Midday,0,593,46.1,0,Fair,Medium,Yes,No,Low
+180,Kumasi-Accra Road,Asokwa,Wednesday,06:45,Early Morning,0,451,43.9,0,Good,Medium,Yes,No,Low
+181,Kumasi-Mampong Road,Mampong Junction,Wednesday,12:00,Midday,0,305,34.9,0,Fair,Medium,No,No,Low
+182,Kumasi-Offinso Road,Techiman Junction,Wednesday,12:00,Midday,0,203,15.2,0,Good,Low,Yes,No,Low
+183,Kumasi-Offinso Road,Techiman Junction,Thursday,21:30,Night,0,313,30.6,0,Poor,Medium,Yes,No,Low
+184,Kumasi-Offinso Road,Offinso Junction,Sunday,12:15,Midday,1,252,22.0,1,Fair,Low,Yes,No,Low
+185,Kumasi-Mampong Road,Mampong Junction,Friday,14:30,Midday,0,478,44.5,1,Good,Medium,No,No,Medium
+186,Kumasi-Offinso Road,Anloga Junction,Monday,22:15,Night,0,355,30.5,0,Poor,High,No,No,Low
+187,Kumasi-Ejisu Road,KNUST Gate,Monday,12:15,Midday,0,489,39.4,1,Good,High,Yes,No,Medium
+188,Kumasi-Accra Road,Kaase,Monday,11:00,Midday,0,478,53.4,1,Poor,Medium,No,No,Low
+189,Kumasi-Mampong Road,Suame,Monday,05:00,Early Morning,0,541,67.4,1,Good,High,Yes,No,Medium
+190,Kumasi-Offinso Road,Techiman Junction,Wednesday,11:15,Midday,0,501,39.1,0,Fair,High,Yes,No,Low
+191,Kumasi-Ejisu Road,Ayigya,Sunday,10:45,Midday,1,336,29.6,1,Fair,Low,No,No,Low
+192,Sunyani Road,Abrepo Junction,Saturday,16:30,Evening Peak,1,247,30.1,0,Good,Low,No,No,Medium
+193,Kumasi-Ejisu Road,KNUST Gate,Thursday,16:15,Evening Peak,0,395,40.9,0,Fair,Low,No,No,Low
+194,Kumasi-Offinso Road,Offinso Junction,Friday,05:00,Early Morning,0,313,22.8,0,Good,Low,Yes,No,Low
+195,Kumasi-Ejisu Road,KNUST Gate,Thursday,18:15,Evening Peak,0,553,46.8,0,Fair,High,No,No,Medium
+196,Kumasi-Mampong Road,Mampong Junction,Sunday,08:45,Morning Peak,1,358,38.2,0,Good,Medium,Yes,Yes,Medium
+197,Sunyani Road,Tanoso,Tuesday,06:00,Early Morning,0,637,59.2,1,Good,High,No,No,Medium
+198,Kumasi-Accra Road,Oforikrom,Wednesday,06:45,Early Morning,0,328,36.6,1,Fair,Low,Yes,No,Low
+199,Kumasi-Offinso Road,Anloga Junction,Monday,17:00,Evening Peak,0,208,16.8,0,Poor,Low,Yes,No,Medium
+200,Kumasi-Ejisu Road,KNUST Gate,Wednesday,15:45,Evening Peak,0,739,62.4,1,Good,Medium,Yes,No,High
+201,Sunyani Road,Sofoline,Sunday,19:15,Night,1,236,21.8,0,Poor,Low,No,No,Low
+202,Kumasi-Mampong Road,Suame,Thursday,12:00,Midday,0,364,31.8,0,Good,Medium,Yes,No,Low
+203,Sunyani Road,Abrepo Junction,Thursday,21:00,Night,0,462,40.5,1,Good,Medium,Yes,No,Medium
+204,Kumasi-Offinso Road,Techiman Junction,Wednesday,06:00,Early Morning,0,229,24.2,0,Good,Low,No,No,Low
+205,Kumasi-Offinso Road,Anloga Junction,Sunday,17:30,Evening Peak,1,266,29.5,0,Fair,Medium,No,No,Low
+206,Kumasi-Offinso Road,Techiman Junction,Tuesday,15:30,Evening Peak,0,614,56.0,0,Fair,Medium,No,No,Medium
+207,Sunyani Road,Sofoline,Wednesday,09:15,Morning Peak,0,533,60.6,1,Fair,Low,Yes,No,Medium
+208,Kumasi-Accra Road,Oforikrom,Monday,16:45,Evening Peak,0,538,61.1,1,Good,Low,No,No,Medium
+209,Sunyani Road,Abrepo Junction,Saturday,11:30,Midday,1,362,45.4,0,Poor,High,No,No,Medium
+210,Kumasi-Accra Road,Asokwa,Saturday,22:45,Night,1,372,40.2,1,Fair,Low,No,No,Low
+211,Kumasi-Mampong Road,Mampong Junction,Tuesday,06:30,Early Morning,0,231,24.1,0,Poor,Low,Yes,Yes,Medium
+212,Kumasi-Offinso Road,Techiman Junction,Tuesday,20:45,Night,0,324,29.8,1,Good,Low,Yes,No,Low
+213,Kumasi-Mampong Road,Tafo,Sunday,14:45,Midday,1,290,18.9,1,Good,Medium,No,No,Low
+214,Kumasi-Ejisu Road,Ayigya,Saturday,11:30,Midday,1,250,21.2,0,Good,Medium,No,Yes,Low
+215,Kumasi-Mampong Road,Suame,Thursday,21:15,Night,0,229,28.0,0,Good,Low,No,Yes,Low
+216,Sunyani Road,Sofoline,Saturday,07:00,Morning Peak,1,395,43.3,1,Fair,Medium,Yes,No,High
+217,Kumasi-Ejisu Road,Ayigya,Friday,17:15,Evening Peak,0,479,43.1,1,Good,Low,Yes,No,Medium
+218,Kumasi-Mampong Road,Tafo,Sunday,14:00,Midday,1,373,46.2,0,Fair,High,Yes,No,Low
+219,Sunyani Road,Tanoso,Friday,17:00,Evening Peak,0,506,39.4,0,Good,Medium,Yes,No,Medium
+220,Kumasi-Offinso Road,Anloga Junction,Thursday,12:15,Midday,0,261,30.8,1,Poor,Low,No,No,Low
+221,Kumasi-Offinso Road,Anloga Junction,Wednesday,10:15,Midday,0,255,26.2,0,Poor,Medium,Yes,No,Medium
+222,Kumasi-Ejisu Road,KNUST Gate,Wednesday,09:15,Morning Peak,0,490,38.5,0,Poor,Low,Yes,No,Medium
+223,Sunyani Road,Sofoline,Sunday,05:45,Early Morning,1,271,32.1,1,Good,Low,Yes,Yes,Low
+224,Sunyani Road,Sofoline,Tuesday,10:00,Midday,0,470,49.6,0,Good,Medium,Yes,Yes,Low
+225,Sunyani Road,Tanoso,Tuesday,18:45,Evening Peak,0,371,31.1,1,Good,Low,No,Yes,Medium
+226,Sunyani Road,Sofoline,Monday,14:00,Midday,0,346,31.1,0,Good,Low,No,No,Low
+227,Kumasi-Ejisu Road,KNUST Gate,Wednesday,05:45,Early Morning,0,424,43.0,0,Fair,Medium,No,No,Low
+228,Kumasi-Offinso Road,Offinso Junction,Thursday,06:00,Early Morning,0,326,26.8,0,Fair,Medium,Yes,No,Low
+229,Kumasi-Ejisu Road,KNUST Gate,Sunday,15:00,Evening Peak,1,407,31.9,1,Fair,Low,No,No,Medium
+230,Kumasi-Offinso Road,Techiman Junction,Monday,08:15,Morning Peak,0,396,37.5,0,Good,Medium,No,No,Medium
+231,Kumasi-Ejisu Road,Ayigya,Wednesday,08:15,Morning Peak,0,446,39.7,1,Fair,Low,Yes,No,Medium
+232,Kumasi-Ejisu Road,KNUST Gate,Friday,08:30,Morning Peak,0,416,52.4,0,Fair,Medium,No,No,Low
+233,Kumasi-Accra Road,Asokwa,Monday,07:30,Morning Peak,0,404,35.8,0,Poor,Low,No,No,Low
+234,Kumasi-Mampong Road,Mampong Junction,Monday,06:30,Early Morning,0,488,57.1,1,Good,High,Yes,No,Medium
+235,Kumasi-Offinso Road,Offinso Junction,Monday,17:30,Evening Peak,0,684,61.1,1,Good,Medium,No,No,Medium
+236,Sunyani Road,Sofoline,Sunday,17:45,Evening Peak,1,450,39.9,0,Good,Low,Yes,Yes,Medium
+237,Kumasi-Ejisu Road,KNUST Gate,Sunday,08:15,Morning Peak,1,272,21.3,0,Good,Low,No,No,Medium
+238,Kumasi-Ejisu Road,Ayigya,Monday,20:30,Night,0,425,42.5,0,Good,Medium,No,No,Low
+239,Kumasi-Accra Road,Asokwa,Tuesday,16:45,Evening Peak,0,470,44.2,0,Fair,Medium,Yes,No,Medium
+240,Kumasi-Offinso Road,Offinso Junction,Saturday,18:30,Evening Peak,1,288,21.1,0,Fair,Low,Yes,No,Low
+241,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,21:45,Night,0,248,22.2,0,Fair,Low,No,No,Low
+242,Kumasi-Mampong Road,Suame,Friday,22:15,Night,0,531,44.1,0,Good,High,No,Yes,Medium
+243,Sunyani Road,Abrepo Junction,Friday,09:00,Morning Peak,0,356,27.5,0,Good,Medium,Yes,No,Medium
+244,Kumasi-Offinso Road,Anloga Junction,Sunday,20:00,Night,1,213,21.2,1,Good,Low,Yes,Yes,Low
+245,Sunyani Road,Abrepo Junction,Thursday,12:15,Midday,0,449,32.1,0,Poor,Medium,Yes,No,Medium
+246,Kumasi-Ejisu Road,Ayigya,Friday,08:30,Morning Peak,0,507,49.7,0,Fair,Low,No,No,Low
+247,Sunyani Road,Tanoso,Friday,20:00,Night,0,511,53.5,0,Fair,High,No,No,Low
+248,Kumasi-Offinso Road,Offinso Junction,Tuesday,18:00,Evening Peak,0,467,48.7,1,Fair,Medium,Yes,No,High
+249,Kumasi-Offinso Road,Offinso Junction,Wednesday,07:00,Morning Peak,0,413,48.3,0,Good,Medium,No,Yes,Medium
+250,Kumasi-Mampong Road,Mampong Junction,Monday,17:45,Evening Peak,0,444,51.5,0,Poor,Medium,Yes,No,Medium
+251,Kumasi-Accra Road,Kaase,Saturday,17:45,Evening Peak,1,482,66.4,1,Fair,Medium,Yes,No,High
+252,Kumasi-Offinso Road,Offinso Junction,Monday,18:00,Evening Peak,0,488,41.4,0,Fair,Medium,No,No,Low
+253,Kumasi-Accra Road,Kaase,Thursday,05:45,Early Morning,0,401,38.7,0,Good,Low,No,No,Low
+254,Kumasi-Ejisu Road,KNUST Gate,Friday,21:15,Night,0,357,32.4,0,Fair,Low,Yes,No,Low
+255,Kumasi-Ejisu Road,KNUST Gate,Tuesday,17:15,Evening Peak,0,635,71.8,0,Poor,Medium,Yes,No,High
+256,Kumasi-Offinso Road,Anloga Junction,Tuesday,21:45,Night,0,431,51.7,1,Good,Medium,No,No,Low
+257,Kumasi-Offinso Road,Offinso Junction,Saturday,19:45,Night,1,234,17.1,0,Fair,Low,No,No,Low
+258,Kumasi-Ejisu Road,KNUST Gate,Wednesday,06:00,Early Morning,0,560,44.1,0,Good,High,Yes,No,Medium
+259,Kumasi-Offinso Road,Anloga Junction,Monday,13:30,Midday,0,373,35.6,0,Fair,Medium,Yes,No,Low
+260,Kumasi-Accra Road,Asokwa,Wednesday,14:00,Midday,0,320,30.6,0,Good,Low,No,No,Low
+261,Kumasi-Accra Road,Asokwa,Tuesday,15:30,Evening Peak,0,732,93.3,0,Poor,High,No,No,High
+262,Kumasi-Offinso Road,Techiman Junction,Wednesday,09:30,Morning Peak,0,425,36.6,0,Good,Medium,No,No,Low
+263,Kumasi-Mampong Road,Tafo,Saturday,09:00,Morning Peak,1,390,34.0,1,Good,Low,No,No,Medium
+264,Kumasi-Accra Road,Asokwa,Saturday,19:15,Night,1,400,48.6,0,Good,High,Yes,No,Low
+265,Sunyani Road,Tanoso,Saturday,14:30,Midday,1,368,31.1,1,Good,Medium,Yes,No,Medium
+266,Kumasi-Offinso Road,Techiman Junction,Saturday,18:30,Evening Peak,1,462,46.6,0,Good,Medium,No,No,Medium
+267,Kumasi-Ejisu Road,Ejisu Junction,Thursday,08:45,Morning Peak,0,472,51.7,0,Good,Low,No,No,Medium
+268,Kumasi-Offinso Road,Techiman Junction,Thursday,09:45,Morning Peak,0,342,25.0,0,Fair,Low,Yes,No,Medium
+269,Kumasi-Ejisu Road,Ejisu Junction,Sunday,13:15,Midday,1,287,29.8,1,Good,Medium,Yes,No,Low
+270,Sunyani Road,Tanoso,Sunday,07:30,Morning Peak,1,522,44.4,0,Good,Medium,No,No,Medium
+271,Kumasi-Offinso Road,Anloga Junction,Monday,16:30,Evening Peak,0,420,36.0,0,Good,Medium,Yes,No,Medium
+272,Kumasi-Mampong Road,Mampong Junction,Monday,19:00,Night,0,434,34.0,1,Good,Medium,Yes,No,Low
+273,Kumasi-Accra Road,Asokwa,Sunday,15:15,Evening Peak,1,657,72.8,1,Good,Medium,No,No,High
+274,Kumasi-Accra Road,Asokwa,Wednesday,13:00,Midday,0,387,31.5,1,Fair,Low,No,Yes,Medium
+275,Kumasi-Mampong Road,Suame,Friday,08:00,Morning Peak,0,386,27.9,0,Fair,Low,Yes,No,Low
+276,Kumasi-Accra Road,Asokwa,Sunday,14:30,Midday,1,446,35.5,0,Fair,Medium,No,No,Low
+277,Kumasi-Offinso Road,Techiman Junction,Saturday,07:30,Morning Peak,1,302,31.4,0,Good,Low,Yes,No,Medium
+278,Kumasi-Mampong Road,Tafo,Monday,06:00,Early Morning,0,340,33.5,1,Good,Low,Yes,No,Low
+279,Kumasi-Mampong Road,Suame,Wednesday,08:30,Morning Peak,0,617,62.4,1,Good,Medium,Yes,No,High
+280,Kumasi-Offinso Road,Anloga Junction,Wednesday,05:30,Early Morning,0,341,35.4,0,Good,Low,Yes,Yes,Low
+281,Kumasi-Mampong Road,Tafo,Saturday,21:45,Night,1,295,29.7,1,Good,Low,No,Yes,Low
+282,Kumasi-Accra Road,Asokwa,Thursday,12:45,Midday,0,611,73.0,0,Good,High,No,No,Medium
+283,Kumasi-Mampong Road,Mampong Junction,Sunday,19:30,Night,1,317,29.9,0,Good,Medium,No,No,Low
+284,Kumasi-Accra Road,Asokwa,Wednesday,05:30,Early Morning,0,519,52.1,0,Fair,Medium,Yes,No,Low
+285,Kumasi-Ejisu Road,KNUST Gate,Wednesday,07:00,Morning Peak,0,514,59.6,1,Fair,Low,Yes,Yes,High
+286,Sunyani Road,Sofoline,Monday,07:15,Morning Peak,0,638,60.4,1,Good,Medium,No,No,High
+287,Kumasi-Ejisu Road,KNUST Gate,Monday,15:45,Evening Peak,0,607,76.2,1,Fair,Low,Yes,No,High
+288,Kumasi-Accra Road,Kaase,Tuesday,21:45,Night,0,483,51.0,0,Poor,High,No,No,Medium
+289,Kumasi-Mampong Road,Suame,Thursday,05:15,Early Morning,0,307,30.9,0,Fair,Low,Yes,No,Low
+290,Sunyani Road,Sofoline,Saturday,07:00,Morning Peak,1,594,47.1,1,Good,High,Yes,No,Medium
+291,Sunyani Road,Tanoso,Friday,13:15,Midday,0,347,28.3,0,Good,Medium,No,No,Low
+292,Kumasi-Ejisu Road,Ayigya,Monday,21:45,Night,0,355,33.1,0,Good,Medium,Yes,No,Low
+293,Kumasi-Mampong Road,Suame,Friday,05:30,Early Morning,0,349,34.8,1,Good,Medium,Yes,No,Medium
+294,Kumasi-Mampong Road,Tafo,Thursday,20:45,Night,0,247,16.9,0,Fair,Low,Yes,No,Low
+295,Kumasi-Mampong Road,Mampong Junction,Sunday,07:00,Morning Peak,1,259,14.4,0,Good,Low,Yes,No,Medium
+296,Kumasi-Offinso Road,Techiman Junction,Saturday,07:15,Morning Peak,1,259,21.8,0,Fair,Medium,Yes,No,Medium
+297,Kumasi-Accra Road,Kaase,Wednesday,09:30,Morning Peak,0,692,56.1,1,Poor,Medium,No,No,High
+298,Kumasi-Accra Road,Oforikrom,Wednesday,09:00,Morning Peak,0,635,66.2,0,Fair,Medium,Yes,No,High
+299,Kumasi-Mampong Road,Mampong Junction,Saturday,06:15,Early Morning,1,255,30.9,0,Good,Medium,No,Yes,Low
+300,Kumasi-Accra Road,Asokwa,Tuesday,12:30,Midday,0,342,27.8,1,Poor,Low,Yes,No,Medium
+301,Kumasi-Ejisu Road,KNUST Gate,Monday,17:30,Evening Peak,0,571,50.6,0,Fair,Medium,Yes,Yes,High
+302,Kumasi-Mampong Road,Suame,Saturday,10:30,Midday,1,241,17.7,0,Good,High,No,Yes,Medium
+303,Kumasi-Ejisu Road,Ejisu Junction,Friday,18:00,Evening Peak,0,722,62.1,0,Good,Medium,Yes,No,Medium
+304,Kumasi-Mampong Road,Suame,Saturday,16:15,Evening Peak,1,430,35.6,0,Good,High,Yes,No,Medium
+305,Kumasi-Mampong Road,Mampong Junction,Thursday,05:30,Early Morning,0,355,44.0,0,Good,Medium,No,No,Low
+306,Kumasi-Accra Road,Oforikrom,Saturday,07:45,Morning Peak,1,376,37.9,0,Poor,Low,No,No,Low
+307,Kumasi-Accra Road,Kaase,Friday,09:45,Morning Peak,0,587,61.3,0,Fair,Medium,Yes,No,Medium
+308,Kumasi-Offinso Road,Offinso Junction,Tuesday,09:00,Morning Peak,0,401,45.9,1,Poor,Low,Yes,No,Medium
+309,Kumasi-Accra Road,Asokwa,Wednesday,14:30,Midday,0,318,39.4,0,Fair,Medium,No,No,Low
+310,Kumasi-Offinso Road,Techiman Junction,Thursday,07:00,Morning Peak,0,388,43.2,0,Fair,Low,No,No,Low
+311,Kumasi-Ejisu Road,Ayigya,Tuesday,18:00,Evening Peak,0,395,42.5,0,Good,Low,Yes,Yes,Medium
+312,Kumasi-Accra Road,Asokwa,Sunday,06:15,Early Morning,1,251,23.1,0,Fair,Medium,Yes,No,Low
+313,Kumasi-Mampong Road,Suame,Thursday,22:45,Night,0,428,34.9,1,Fair,Medium,No,No,Low
+314,Kumasi-Mampong Road,Suame,Friday,21:15,Night,0,438,35.0,0,Good,High,No,No,Medium
+315,Kumasi-Accra Road,Oforikrom,Friday,10:45,Midday,0,507,68.5,0,Good,Medium,No,No,Low
+316,Kumasi-Ejisu Road,Ayigya,Friday,17:00,Evening Peak,0,471,56.8,0,Good,Low,Yes,No,Medium
+317,Kumasi-Mampong Road,Tafo,Wednesday,05:15,Early Morning,0,318,31.5,0,Good,Medium,No,No,Low
+318,Kumasi-Accra Road,Oforikrom,Thursday,05:45,Early Morning,0,286,30.5,0,Poor,Low,No,No,Low
+319,Kumasi-Accra Road,Kaase,Thursday,08:45,Morning Peak,0,439,53.1,0,Good,Low,No,No,Low
+320,Kumasi-Accra Road,Kaase,Saturday,09:30,Morning Peak,1,411,39.1,0,Good,Low,No,No,Medium
+321,Kumasi-Accra Road,Kaase,Friday,15:45,Evening Peak,0,557,46.6,0,Fair,Medium,No,Yes,Medium
+322,Sunyani Road,Abrepo Junction,Thursday,10:30,Midday,0,539,54.7,0,Good,High,Yes,No,Low
+323,Kumasi-Offinso Road,Offinso Junction,Monday,16:15,Evening Peak,0,377,32.3,0,Good,Low,Yes,No,Medium
+324,Kumasi-Ejisu Road,Ejisu Junction,Sunday,22:15,Night,1,574,51.0,0,Good,High,No,No,Low
+325,Kumasi-Accra Road,Oforikrom,Monday,15:45,Evening Peak,0,550,51.3,0,Fair,Low,Yes,No,Low
+326,Kumasi-Accra Road,Asokwa,Thursday,12:30,Midday,0,350,34.4,0,Good,Low,No,No,Low
+327,Kumasi-Ejisu Road,Ejisu Junction,Monday,16:15,Evening Peak,0,743,74.2,0,Fair,High,Yes,No,High
+328,Kumasi-Ejisu Road,Ayigya,Saturday,18:45,Evening Peak,1,567,44.2,0,Good,Medium,No,No,Medium
+329,Sunyani Road,Abrepo Junction,Friday,17:00,Evening Peak,0,579,44.5,0,Good,Medium,No,No,Medium
+330,Kumasi-Offinso Road,Techiman Junction,Monday,17:30,Evening Peak,0,595,54.0,1,Fair,Medium,Yes,No,Medium
+331,Sunyani Road,Sofoline,Sunday,13:45,Midday,1,381,37.5,0,Fair,Medium,Yes,Yes,Low
+332,Kumasi-Accra Road,Kaase,Tuesday,21:30,Night,0,332,38.7,0,Fair,Low,Yes,No,Low
+333,Kumasi-Mampong Road,Mampong Junction,Friday,14:45,Midday,0,576,71.8,0,Fair,High,Yes,No,Medium
+334,Sunyani Road,Sofoline,Tuesday,15:00,Evening Peak,0,685,85.9,1,Fair,Medium,Yes,Yes,High
+335,Kumasi-Offinso Road,Offinso Junction,Saturday,16:30,Evening Peak,1,336,34.5,0,Fair,Medium,Yes,No,Medium
+336,Sunyani Road,Abrepo Junction,Wednesday,08:45,Morning Peak,0,489,46.2,1,Good,Medium,Yes,Yes,Medium
+337,Kumasi-Ejisu Road,Ejisu Junction,Sunday,17:00,Evening Peak,1,468,51.5,0,Good,Medium,No,No,Low
+338,Sunyani Road,Tanoso,Wednesday,11:45,Midday,0,396,40.6,1,Good,Medium,No,No,Low
+339,Kumasi-Offinso Road,Techiman Junction,Sunday,16:15,Evening Peak,1,324,25.0,0,Fair,Medium,Yes,No,Medium
+340,Kumasi-Accra Road,Kaase,Saturday,21:15,Night,1,400,46.8,0,Good,Medium,Yes,No,Low
+341,Kumasi-Ejisu Road,Ejisu Junction,Saturday,10:00,Midday,1,306,28.5,0,Fair,Medium,No,No,Low
+342,Kumasi-Mampong Road,Suame,Tuesday,06:15,Early Morning,0,238,29.5,0,Poor,Low,Yes,No,Low
+343,Kumasi-Mampong Road,Suame,Friday,10:45,Midday,0,359,33.9,0,Good,Low,Yes,No,Low
+344,Kumasi-Accra Road,Oforikrom,Monday,09:00,Morning Peak,0,375,39.4,0,Good,Low,Yes,No,Medium
+345,Kumasi-Ejisu Road,KNUST Gate,Saturday,06:15,Early Morning,1,483,40.0,0,Good,High,Yes,No,Medium
+346,Kumasi-Accra Road,Oforikrom,Thursday,21:00,Night,0,371,32.9,0,Fair,Medium,No,No,Low
+347,Sunyani Road,Abrepo Junction,Friday,12:00,Midday,0,450,49.4,0,Fair,Medium,No,No,Low
+348,Kumasi-Offinso Road,Offinso Junction,Friday,09:00,Morning Peak,0,707,67.7,1,Fair,High,Yes,No,High
+349,Kumasi-Accra Road,Asokwa,Wednesday,09:15,Morning Peak,0,638,67.9,0,Fair,Medium,Yes,No,High
+350,Sunyani Road,Tanoso,Saturday,17:15,Evening Peak,1,512,39.6,0,Good,Medium,Yes,No,Medium
+351,Kumasi-Offinso Road,Anloga Junction,Sunday,11:15,Midday,1,201,20.7,0,Poor,Low,No,No,Low
+352,Kumasi-Accra Road,Asokwa,Tuesday,17:30,Evening Peak,0,903,72.7,1,Good,High,Yes,No,High
+353,Kumasi-Accra Road,Kaase,Monday,19:00,Night,0,384,36.6,1,Fair,Low,No,No,Low
+354,Kumasi-Mampong Road,Mampong Junction,Monday,12:15,Midday,0,455,37.0,0,Good,Medium,Yes,No,Low
+355,Kumasi-Accra Road,Asokwa,Sunday,19:30,Night,1,265,26.6,0,Good,Low,No,No,Low
+356,Kumasi-Mampong Road,Mampong Junction,Sunday,14:00,Midday,1,267,25.1,0,Poor,Medium,No,No,Low
+357,Kumasi-Offinso Road,Offinso Junction,Sunday,19:15,Night,1,177,24.0,0,Good,Medium,Yes,No,Low
+358,Kumasi-Accra Road,Oforikrom,Tuesday,07:30,Morning Peak,0,703,71.9,0,Good,Medium,Yes,No,Medium
+359,Kumasi-Offinso Road,Anloga Junction,Friday,07:15,Morning Peak,0,535,53.2,0,Poor,High,No,No,Medium
+360,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,10:45,Midday,0,435,41.9,0,Fair,High,Yes,No,Low
+361,Kumasi-Offinso Road,Anloga Junction,Friday,14:15,Midday,0,404,37.4,1,Fair,Medium,Yes,No,Low
+362,Sunyani Road,Abrepo Junction,Monday,16:30,Evening Peak,0,693,74.3,0,Good,High,Yes,No,High
+363,Sunyani Road,Tanoso,Thursday,14:15,Midday,0,518,37.0,1,Fair,Medium,Yes,No,Low
+364,Sunyani Road,Tanoso,Saturday,12:00,Midday,1,252,27.3,0,Poor,Low,No,No,Low
+365,Kumasi-Ejisu Road,Ayigya,Thursday,09:00,Morning Peak,0,380,30.6,1,Fair,Low,Yes,No,Medium
+366,Kumasi-Accra Road,Asokwa,Tuesday,07:00,Morning Peak,0,511,52.0,0,Fair,Medium,No,No,Low
+367,Sunyani Road,Tanoso,Sunday,07:30,Morning Peak,1,411,37.1,0,Poor,Medium,No,No,Medium
+368,Sunyani Road,Tanoso,Saturday,20:30,Night,1,274,25.3,0,Good,Low,No,No,Low
+369,Sunyani Road,Sofoline,Friday,18:15,Evening Peak,0,542,58.0,0,Good,Medium,No,No,Medium
+370,Kumasi-Accra Road,Oforikrom,Sunday,13:00,Midday,1,285,27.2,0,Good,Medium,Yes,No,Low
+371,Kumasi-Ejisu Road,Ayigya,Wednesday,07:00,Morning Peak,0,359,30.1,0,Good,Low,Yes,No,Low
+372,Kumasi-Mampong Road,Tafo,Monday,15:00,Evening Peak,0,367,37.4,0,Poor,Low,No,No,Medium
+373,Kumasi-Ejisu Road,Ayigya,Friday,07:00,Morning Peak,0,463,48.7,1,Good,Low,Yes,No,Medium
+374,Kumasi-Mampong Road,Suame,Sunday,11:45,Midday,1,159,17.1,0,Fair,Low,No,No,Low
+375,Kumasi-Accra Road,Kaase,Monday,09:45,Morning Peak,0,561,71.2,1,Poor,Medium,No,No,High
+376,Kumasi-Ejisu Road,Ayigya,Sunday,16:45,Evening Peak,1,327,33.0,0,Fair,Low,Yes,No,Medium
+377,Kumasi-Mampong Road,Suame,Tuesday,11:15,Midday,0,579,58.6,1,Good,High,Yes,No,Medium
+378,Kumasi-Ejisu Road,Ayigya,Sunday,21:00,Night,1,322,27.3,1,Fair,Low,No,No,Low
+379,Kumasi-Ejisu Road,Ayigya,Saturday,22:45,Night,1,490,50.3,0,Good,High,Yes,No,Medium
+380,Kumasi-Offinso Road,Offinso Junction,Friday,14:30,Midday,0,316,27.7,0,Fair,Medium,No,Yes,Low
+381,Sunyani Road,Tanoso,Saturday,07:30,Morning Peak,1,535,63.3,0,Good,Medium,Yes,Yes,High
+382,Kumasi-Accra Road,Oforikrom,Thursday,16:00,Evening Peak,0,753,82.5,0,Fair,High,Yes,No,High
+383,Kumasi-Accra Road,Kaase,Sunday,05:45,Early Morning,1,264,32.9,0,Good,Low,Yes,No,Low
+384,Kumasi-Ejisu Road,Ayigya,Saturday,22:15,Night,1,335,35.4,0,Fair,Medium,Yes,No,Low
+385,Kumasi-Ejisu Road,KNUST Gate,Monday,11:15,Midday,0,521,46.6,0,Good,High,Yes,No,Low
+386,Kumasi-Mampong Road,Tafo,Wednesday,08:00,Morning Peak,0,655,69.7,1,Good,Medium,Yes,Yes,High
+387,Kumasi-Offinso Road,Techiman Junction,Thursday,12:15,Midday,0,312,19.8,0,Fair,Medium,No,No,Low
+388,Kumasi-Ejisu Road,KNUST Gate,Thursday,05:00,Early Morning,0,384,42.9,0,Good,Medium,Yes,No,Low
+389,Kumasi-Offinso Road,Anloga Junction,Tuesday,06:00,Early Morning,0,298,22.5,0,Good,Low,Yes,No,Low
+390,Kumasi-Offinso Road,Anloga Junction,Saturday,16:30,Evening Peak,1,304,28.8,0,Poor,Medium,Yes,No,Medium
+391,Kumasi-Accra Road,Asokwa,Thursday,19:00,Night,0,503,52.9,0,Fair,Medium,No,No,Low
+392,Sunyani Road,Tanoso,Thursday,07:00,Morning Peak,0,521,55.6,1,Good,Low,Yes,No,Medium
+393,Kumasi-Offinso Road,Anloga Junction,Thursday,06:00,Early Morning,0,381,34.3,1,Good,High,Yes,No,Low
+394,Sunyani Road,Tanoso,Monday,22:30,Night,0,336,22.7,0,Fair,Medium,Yes,No,Low
+395,Kumasi-Mampong Road,Suame,Sunday,16:45,Evening Peak,1,360,35.5,0,Fair,High,No,No,Medium
+396,Sunyani Road,Tanoso,Friday,09:45,Morning Peak,0,370,39.6,0,Good,Low,Yes,No,Medium
+397,Kumasi-Ejisu Road,KNUST Gate,Sunday,07:15,Morning Peak,1,443,45.3,0,Good,Medium,Yes,No,Medium
+398,Kumasi-Accra Road,Asokwa,Sunday,06:15,Early Morning,1,436,37.7,0,Fair,High,Yes,No,Low
+399,Kumasi-Ejisu Road,Ayigya,Tuesday,15:45,Evening Peak,0,640,50.0,0,Good,High,Yes,No,Medium
+400,Kumasi-Offinso Road,Offinso Junction,Monday,07:00,Morning Peak,0,433,52.6,0,Fair,Low,Yes,No,Medium
+401,Sunyani Road,Sofoline,Sunday,20:15,Night,1,333,29.3,0,Good,Medium,Yes,No,Low
+402,Sunyani Road,Sofoline,Friday,07:15,Morning Peak,0,525,52.0,0,Fair,Medium,Yes,No,Medium
+403,Kumasi-Mampong Road,Tafo,Sunday,05:30,Early Morning,1,242,17.8,0,Fair,High,No,No,Low
+404,Kumasi-Ejisu Road,Ejisu Junction,Saturday,05:30,Early Morning,1,234,18.7,0,Poor,Low,Yes,Yes,Medium
+405,Kumasi-Mampong Road,Suame,Tuesday,22:30,Night,0,331,29.5,0,Good,Low,Yes,No,Low
+406,Kumasi-Ejisu Road,KNUST Gate,Wednesday,15:00,Evening Peak,0,638,74.3,0,Good,Medium,No,No,Medium
+407,Sunyani Road,Sofoline,Saturday,18:45,Evening Peak,1,306,26.1,0,Good,Low,Yes,Yes,Medium
+408,Kumasi-Accra Road,Kaase,Monday,05:45,Early Morning,0,514,54.3,0,Fair,Medium,No,No,Low
+409,Kumasi-Offinso Road,Anloga Junction,Tuesday,12:45,Midday,0,417,38.8,0,Good,Medium,No,No,Low
+410,Kumasi-Ejisu Road,Ejisu Junction,Thursday,08:30,Morning Peak,0,398,28.2,0,Fair,Low,No,No,Low
+411,Kumasi-Mampong Road,Tafo,Wednesday,15:15,Evening Peak,0,393,49.4,0,Fair,Low,No,Yes,Medium
+412,Kumasi-Ejisu Road,KNUST Gate,Tuesday,16:00,Evening Peak,0,524,48.3,0,Fair,Medium,No,Yes,Medium
+413,Kumasi-Accra Road,Asokwa,Tuesday,17:15,Evening Peak,0,408,43.7,1,Good,Low,No,No,Medium
+414,Kumasi-Mampong Road,Tafo,Sunday,06:15,Early Morning,1,186,13.2,1,Fair,Low,Yes,No,Low
+415,Kumasi-Accra Road,Kaase,Thursday,06:00,Early Morning,0,486,59.4,1,Fair,Medium,No,No,Low
+416,Kumasi-Mampong Road,Mampong Junction,Wednesday,08:30,Morning Peak,0,597,53.2,0,Fair,High,No,No,Medium
+417,Sunyani Road,Sofoline,Saturday,21:30,Night,1,304,42.6,0,Good,Medium,Yes,No,Low
+418,Kumasi-Offinso Road,Techiman Junction,Saturday,05:45,Early Morning,1,223,22.9,0,Good,Medium,Yes,No,Low
+419,Kumasi-Ejisu Road,KNUST Gate,Thursday,05:45,Early Morning,0,492,56.7,0,Good,Medium,Yes,No,Low
+420,Kumasi-Accra Road,Kaase,Tuesday,09:45,Morning Peak,0,717,77.7,1,Good,Low,Yes,No,Medium
+421,Kumasi-Mampong Road,Suame,Sunday,22:45,Night,1,350,26.0,0,Good,Medium,Yes,No,Low
+422,Kumasi-Accra Road,Oforikrom,Friday,20:30,Night,0,428,39.8,0,Good,Medium,No,No,Low
+423,Kumasi-Accra Road,Kaase,Sunday,09:00,Morning Peak,1,304,37.1,0,Good,Low,No,No,Low
+424,Kumasi-Mampong Road,Suame,Tuesday,19:15,Night,0,417,34.8,0,Fair,High,Yes,No,Medium
+425,Kumasi-Ejisu Road,Ayigya,Saturday,07:00,Morning Peak,1,335,30.8,0,Fair,Low,Yes,No,Medium
+426,Kumasi-Offinso Road,Offinso Junction,Wednesday,20:15,Night,0,340,23.9,1,Good,Medium,Yes,No,Low
+427,Kumasi-Offinso Road,Offinso Junction,Saturday,22:45,Night,1,273,24.1,0,Fair,Medium,Yes,No,Low
+428,Kumasi-Offinso Road,Techiman Junction,Sunday,06:00,Early Morning,1,327,29.8,0,Good,Medium,No,No,Low
+429,Kumasi-Offinso Road,Offinso Junction,Monday,13:45,Midday,0,336,31.8,0,Fair,High,No,No,Medium
+430,Sunyani Road,Tanoso,Tuesday,07:15,Morning Peak,0,505,46.1,0,Fair,Low,No,Yes,Medium
+431,Kumasi-Mampong Road,Suame,Monday,05:00,Early Morning,0,290,31.3,0,Poor,Low,No,No,Low
+432,Sunyani Road,Tanoso,Tuesday,13:45,Midday,0,516,48.9,1,Good,Medium,Yes,No,Medium
+433,Kumasi-Mampong Road,Mampong Junction,Friday,14:15,Midday,0,293,22.8,0,Poor,High,Yes,No,Low
+434,Kumasi-Offinso Road,Offinso Junction,Tuesday,05:30,Early Morning,0,313,25.7,0,Good,Medium,Yes,No,Low
+435,Sunyani Road,Abrepo Junction,Wednesday,05:45,Early Morning,0,410,45.7,0,Good,Medium,No,No,Low
+436,Kumasi-Ejisu Road,KNUST Gate,Tuesday,22:45,Night,0,288,28.5,0,Good,Low,Yes,No,Low
+437,Kumasi-Offinso Road,Techiman Junction,Thursday,10:30,Midday,0,448,44.7,0,Good,High,Yes,No,Low
+438,Kumasi-Mampong Road,Mampong Junction,Friday,06:15,Early Morning,0,467,49.7,0,Poor,High,Yes,No,Low
+439,Kumasi-Offinso Road,Techiman Junction,Saturday,05:15,Early Morning,1,255,24.6,0,Good,Medium,No,No,Low
+440,Kumasi-Ejisu Road,KNUST Gate,Tuesday,20:15,Night,0,487,50.5,1,Good,Low,No,Yes,Low
+441,Kumasi-Mampong Road,Suame,Saturday,21:00,Night,1,236,31.5,1,Good,Low,Yes,No,Low
+442,Kumasi-Ejisu Road,KNUST Gate,Wednesday,15:30,Evening Peak,0,702,67.4,0,Poor,High,Yes,Yes,High
+443,Kumasi-Offinso Road,Techiman Junction,Tuesday,16:45,Evening Peak,0,380,48.6,1,Good,Medium,Yes,No,Medium
+444,Kumasi-Offinso Road,Techiman Junction,Wednesday,16:00,Evening Peak,0,459,37.3,1,Good,Medium,No,No,Medium
+445,Kumasi-Ejisu Road,Ayigya,Sunday,05:45,Early Morning,1,268,27.9,0,Fair,Low,Yes,No,Low
+446,Kumasi-Ejisu Road,KNUST Gate,Friday,15:00,Evening Peak,0,404,34.1,0,Fair,Low,No,No,Low
+447,Sunyani Road,Abrepo Junction,Friday,22:00,Night,0,425,47.3,0,Good,Medium,Yes,No,Low
+448,Kumasi-Ejisu Road,Ayigya,Saturday,08:15,Morning Peak,1,461,47.1,0,Fair,Medium,Yes,No,Medium
+449,Kumasi-Ejisu Road,Ejisu Junction,Thursday,12:30,Midday,0,508,48.8,0,Good,High,Yes,No,Low
+450,Kumasi-Offinso Road,Techiman Junction,Wednesday,08:30,Morning Peak,0,493,39.0,0,Good,High,No,No,Medium
+451,Kumasi-Accra Road,Kaase,Monday,15:00,Evening Peak,0,878,74.8,0,Fair,High,Yes,No,High
+452,Kumasi-Offinso Road,Offinso Junction,Saturday,17:15,Evening Peak,1,311,27.3,1,Good,Low,No,No,Medium
+453,Sunyani Road,Sofoline,Friday,11:15,Midday,0,587,54.9,0,Fair,High,Yes,No,Low
+454,Sunyani Road,Tanoso,Wednesday,09:45,Morning Peak,0,419,35.9,1,Good,Medium,No,No,Medium
+455,Kumasi-Offinso Road,Offinso Junction,Thursday,17:30,Evening Peak,0,325,37.3,0,Good,Medium,No,No,Medium
+456,Kumasi-Mampong Road,Tafo,Monday,07:45,Morning Peak,0,661,74.6,0,Good,High,Yes,No,High
+457,Kumasi-Mampong Road,Tafo,Friday,08:30,Morning Peak,0,731,83.5,0,Fair,High,No,No,High
+458,Kumasi-Mampong Road,Tafo,Thursday,15:00,Evening Peak,0,459,56.4,0,Poor,High,No,Yes,High
+459,Kumasi-Offinso Road,Offinso Junction,Tuesday,15:30,Evening Peak,0,440,46.3,0,Good,Medium,No,No,Medium
+460,Kumasi-Ejisu Road,KNUST Gate,Friday,20:30,Night,0,316,28.2,0,Fair,High,Yes,No,Medium
+461,Kumasi-Offinso Road,Techiman Junction,Sunday,05:45,Early Morning,1,275,32.8,0,Good,Medium,Yes,No,Low
+462,Kumasi-Ejisu Road,Ayigya,Wednesday,11:00,Midday,0,237,25.4,0,Good,Low,Yes,No,Low
+463,Kumasi-Accra Road,Oforikrom,Monday,13:00,Midday,0,394,37.9,0,Fair,Low,Yes,No,Low
+464,Kumasi-Offinso Road,Techiman Junction,Monday,08:30,Morning Peak,0,365,39.4,0,Fair,Low,No,No,Low
+465,Kumasi-Accra Road,Oforikrom,Wednesday,16:15,Evening Peak,0,557,65.4,0,Fair,Medium,No,No,Medium
+466,Kumasi-Accra Road,Kaase,Wednesday,06:30,Early Morning,0,384,50.6,0,Good,Low,Yes,No,Low
+467,Kumasi-Mampong Road,Mampong Junction,Thursday,16:15,Evening Peak,0,443,38.6,0,Fair,Medium,Yes,No,Medium
+468,Kumasi-Ejisu Road,KNUST Gate,Saturday,09:00,Morning Peak,1,543,65.4,1,Fair,Medium,Yes,Yes,High
+469,Kumasi-Offinso Road,Techiman Junction,Sunday,19:45,Night,1,209,16.6,0,Good,Low,Yes,No,Low
+470,Kumasi-Accra Road,Kaase,Tuesday,13:45,Midday,0,444,45.6,0,Good,Medium,Yes,No,Low
+471,Kumasi-Accra Road,Asokwa,Wednesday,07:45,Morning Peak,0,783,85.1,0,Fair,High,No,No,High
+472,Kumasi-Offinso Road,Techiman Junction,Wednesday,09:45,Morning Peak,0,346,34.6,1,Good,Low,Yes,Yes,High
+473,Kumasi-Mampong Road,Suame,Monday,06:15,Early Morning,0,345,33.7,0,Fair,Low,No,No,Low
+474,Kumasi-Offinso Road,Techiman Junction,Saturday,16:15,Evening Peak,1,395,44.7,0,Good,Medium,Yes,No,Medium
+475,Kumasi-Accra Road,Kaase,Sunday,21:15,Night,1,349,25.4,0,Fair,Medium,Yes,No,Low
+476,Kumasi-Accra Road,Asokwa,Sunday,17:30,Evening Peak,1,538,42.4,0,Fair,High,Yes,No,High
+477,Kumasi-Ejisu Road,KNUST Gate,Saturday,12:45,Midday,1,357,36.3,1,Poor,Medium,No,No,Medium
+478,Kumasi-Mampong Road,Mampong Junction,Friday,12:00,Midday,0,375,44.5,0,Good,Medium,No,No,Low
+479,Kumasi-Ejisu Road,Ejisu Junction,Sunday,20:45,Night,1,347,38.8,0,Good,Medium,No,No,Low
+480,Kumasi-Offinso Road,Offinso Junction,Thursday,09:45,Morning Peak,0,408,36.1,1,Fair,Medium,No,No,Medium
+481,Kumasi-Offinso Road,Anloga Junction,Tuesday,10:00,Midday,0,246,22.6,0,Good,Low,Yes,No,Low
+482,Sunyani Road,Tanoso,Saturday,17:00,Evening Peak,1,283,22.7,0,Fair,Low,Yes,No,Medium
+483,Kumasi-Accra Road,Kaase,Thursday,18:30,Evening Peak,0,500,46.2,0,Poor,Medium,No,Yes,Medium
+484,Kumasi-Ejisu Road,Ayigya,Monday,07:00,Morning Peak,0,812,79.3,0,Good,Medium,Yes,No,High
+485,Sunyani Road,Abrepo Junction,Thursday,19:30,Night,0,331,33.8,1,Poor,Low,Yes,No,Low
+486,Kumasi-Accra Road,Kaase,Sunday,14:30,Midday,1,273,22.9,0,Fair,Low,Yes,No,Low
+487,Kumasi-Mampong Road,Tafo,Friday,06:30,Early Morning,0,461,47.5,1,Fair,High,No,No,Medium
+488,Kumasi-Mampong Road,Mampong Junction,Monday,05:15,Early Morning,0,446,47.1,1,Fair,Medium,No,No,Low
+489,Kumasi-Ejisu Road,Ayigya,Saturday,08:30,Morning Peak,1,401,46.9,1,Fair,Medium,No,No,Medium
+490,Kumasi-Accra Road,Kaase,Saturday,20:15,Night,1,343,37.5,1,Good,Low,Yes,No,Low
+491,Kumasi-Offinso Road,Offinso Junction,Wednesday,16:00,Evening Peak,0,554,64.3,0,Fair,High,Yes,No,High
+492,Sunyani Road,Tanoso,Sunday,09:15,Morning Peak,1,602,52.5,1,Good,Medium,No,No,High
+493,Kumasi-Ejisu Road,Ayigya,Wednesday,11:45,Midday,0,344,25.5,0,Good,Medium,No,No,Low
+494,Kumasi-Mampong Road,Mampong Junction,Monday,07:00,Morning Peak,0,558,46.4,0,Good,Medium,Yes,Yes,High
+495,Kumasi-Accra Road,Asokwa,Friday,06:15,Early Morning,0,355,27.7,1,Good,Low,No,No,Low
+496,Kumasi-Offinso Road,Anloga Junction,Monday,22:45,Night,0,453,39.3,1,Good,High,Yes,No,Low
+497,Kumasi-Accra Road,Kaase,Tuesday,13:15,Midday,0,444,51.9,1,Fair,Low,Yes,No,Low
+498,Kumasi-Mampong Road,Mampong Junction,Monday,05:00,Early Morning,0,318,27.6,0,Good,Medium,No,No,Low
+499,Kumasi-Mampong Road,Tafo,Thursday,19:15,Night,0,406,44.1,0,Good,Medium,Yes,Yes,Medium
+500,Sunyani Road,Tanoso,Monday,09:15,Morning Peak,0,587,55.4,0,Fair,Medium,Yes,Yes,High
+501,Kumasi-Accra Road,Kaase,Monday,13:45,Midday,0,446,38.6,1,Poor,Medium,Yes,No,Medium
+502,Kumasi-Accra Road,Asokwa,Thursday,17:30,Evening Peak,0,443,46.9,1,Fair,Low,Yes,Yes,Medium
+503,Kumasi-Accra Road,Asokwa,Friday,11:00,Midday,0,528,65.7,1,Good,High,No,No,Medium
+504,Kumasi-Offinso Road,Techiman Junction,Monday,07:45,Morning Peak,0,605,74.1,0,Good,Medium,No,No,High
+505,Kumasi-Offinso Road,Techiman Junction,Saturday,06:15,Early Morning,1,160,15.2,0,Fair,Low,Yes,No,Low
+506,Kumasi-Offinso Road,Offinso Junction,Monday,07:30,Morning Peak,0,492,58.3,0,Fair,High,No,No,Medium
+507,Kumasi-Mampong Road,Suame,Wednesday,17:30,Evening Peak,0,338,29.5,1,Fair,Low,Yes,No,Medium
+508,Kumasi-Offinso Road,Anloga Junction,Monday,08:30,Morning Peak,0,271,26.9,0,Fair,Low,No,No,Low
+509,Kumasi-Ejisu Road,Ejisu Junction,Monday,20:15,Night,0,508,39.7,0,Fair,Medium,Yes,No,Low
+510,Kumasi-Accra Road,Oforikrom,Thursday,05:45,Early Morning,0,400,41.3,0,Fair,High,Yes,Yes,Low
+511,Kumasi-Accra Road,Oforikrom,Sunday,14:00,Midday,1,280,34.8,0,Good,Low,Yes,No,Low
+512,Kumasi-Ejisu Road,Ayigya,Thursday,19:00,Night,0,621,60.4,0,Good,High,Yes,Yes,Medium
+513,Kumasi-Ejisu Road,Ayigya,Monday,17:30,Evening Peak,0,456,35.0,1,Fair,Low,Yes,No,Medium
+514,Kumasi-Mampong Road,Suame,Monday,05:45,Early Morning,0,404,41.0,0,Good,Medium,No,No,Low
+515,Kumasi-Mampong Road,Tafo,Saturday,18:30,Evening Peak,1,362,27.8,0,Fair,Medium,No,Yes,Medium
+516,Kumasi-Mampong Road,Tafo,Sunday,06:45,Early Morning,1,318,32.2,1,Fair,Medium,Yes,No,Medium
+517,Kumasi-Offinso Road,Offinso Junction,Monday,06:00,Early Morning,0,353,43.5,0,Fair,Medium,Yes,No,Low
+518,Sunyani Road,Tanoso,Thursday,06:00,Early Morning,0,565,64.1,0,Good,High,Yes,No,Low
+519,Kumasi-Ejisu Road,KNUST Gate,Thursday,05:45,Early Morning,0,446,37.1,1,Good,Medium,No,No,Low
+520,Kumasi-Accra Road,Oforikrom,Tuesday,06:15,Early Morning,0,237,19.9,1,Good,Low,No,No,Low
+521,Sunyani Road,Tanoso,Friday,10:15,Midday,0,223,23.3,0,Fair,Low,No,No,Low
+522,Kumasi-Ejisu Road,Ayigya,Thursday,21:00,Night,0,307,24.3,0,Fair,Low,No,No,Low
+523,Sunyani Road,Sofoline,Monday,09:45,Morning Peak,0,602,54.9,0,Poor,High,Yes,No,High
+524,Kumasi-Offinso Road,Techiman Junction,Thursday,07:15,Morning Peak,0,656,60.1,0,Good,High,Yes,No,High
+525,Kumasi-Accra Road,Kaase,Saturday,06:00,Early Morning,1,483,50.6,1,Good,High,Yes,Yes,Medium
+526,Kumasi-Mampong Road,Tafo,Sunday,18:45,Evening Peak,1,347,27.5,0,Fair,High,Yes,No,Medium
+527,Kumasi-Ejisu Road,Ayigya,Sunday,16:30,Evening Peak,1,324,32.7,0,Good,Low,Yes,No,Medium
+528,Kumasi-Offinso Road,Offinso Junction,Monday,06:15,Early Morning,0,472,41.9,0,Fair,High,No,No,Medium
+529,Kumasi-Offinso Road,Anloga Junction,Sunday,10:30,Midday,1,323,27.2,0,Poor,High,No,No,Medium
+530,Kumasi-Mampong Road,Tafo,Saturday,06:45,Early Morning,1,345,23.1,0,Fair,High,No,Yes,Medium
+531,Sunyani Road,Abrepo Junction,Monday,21:00,Night,0,324,25.2,0,Good,Low,No,No,Low
+532,Sunyani Road,Abrepo Junction,Wednesday,07:30,Morning Peak,0,364,29.6,0,Good,Low,No,No,Low
+533,Kumasi-Mampong Road,Tafo,Thursday,21:00,Night,0,317,32.1,1,Good,Low,Yes,No,Low
+534,Kumasi-Mampong Road,Suame,Tuesday,10:00,Midday,0,324,31.6,0,Good,Low,No,No,Low
+535,Sunyani Road,Sofoline,Thursday,13:15,Midday,0,530,57.0,0,Good,Medium,No,No,Low
+536,Sunyani Road,Tanoso,Thursday,06:00,Early Morning,0,481,33.4,0,Good,High,Yes,No,Low
+537,Sunyani Road,Abrepo Junction,Tuesday,06:30,Early Morning,0,399,43.9,0,Fair,Medium,Yes,No,Low
+538,Sunyani Road,Tanoso,Thursday,20:00,Night,0,474,44.5,0,Fair,Medium,Yes,No,Low
+539,Kumasi-Mampong Road,Mampong Junction,Friday,12:15,Midday,0,286,23.4,0,Good,Low,No,No,Low
+540,Kumasi-Offinso Road,Techiman Junction,Sunday,06:45,Early Morning,1,393,36.4,0,Poor,High,Yes,No,Low
+541,Kumasi-Mampong Road,Tafo,Friday,11:30,Midday,0,501,45.3,0,Good,High,No,Yes,Low
+542,Kumasi-Mampong Road,Tafo,Wednesday,08:15,Morning Peak,0,561,55.3,1,Good,Medium,Yes,No,High
+543,Kumasi-Ejisu Road,Ejisu Junction,Monday,19:30,Night,0,547,46.8,0,Good,High,Yes,No,Low
+544,Kumasi-Offinso Road,Anloga Junction,Monday,17:00,Evening Peak,0,684,69.8,0,Good,High,Yes,No,High
+545,Kumasi-Ejisu Road,KNUST Gate,Thursday,21:30,Night,0,520,37.0,0,Good,High,Yes,No,Medium
+546,Kumasi-Offinso Road,Offinso Junction,Tuesday,11:00,Midday,0,358,28.9,1,Fair,Low,Yes,No,Low
+547,Sunyani Road,Tanoso,Wednesday,07:00,Morning Peak,0,578,52.6,0,Fair,Medium,Yes,No,Medium
+548,Kumasi-Offinso Road,Offinso Junction,Sunday,09:45,Morning Peak,1,155,11.8,0,Fair,Low,No,No,Low
+549,Kumasi-Ejisu Road,Ayigya,Sunday,22:15,Night,1,298,30.2,0,Fair,Medium,No,No,Low
+550,Kumasi-Mampong Road,Suame,Monday,07:15,Morning Peak,0,370,45.0,0,Fair,Low,No,No,Low
+551,Kumasi-Ejisu Road,Ayigya,Sunday,08:45,Morning Peak,1,636,67.2,0,Fair,Medium,No,Yes,Medium
+552,Sunyani Road,Sofoline,Wednesday,08:15,Morning Peak,0,526,50.7,0,Good,Low,No,No,Low
+553,Kumasi-Offinso Road,Offinso Junction,Wednesday,08:45,Morning Peak,0,673,70.2,0,Good,High,No,Yes,High
+554,Sunyani Road,Sofoline,Sunday,06:00,Early Morning,1,235,19.5,0,Good,Medium,Yes,No,Low
+555,Kumasi-Mampong Road,Suame,Saturday,05:00,Early Morning,1,259,29.0,0,Fair,High,No,No,Low
+556,Kumasi-Mampong Road,Tafo,Wednesday,10:15,Midday,0,444,33.7,1,Good,High,Yes,No,Medium
+557,Kumasi-Ejisu Road,Ayigya,Monday,15:15,Evening Peak,0,396,38.2,0,Fair,Low,Yes,No,Low
+558,Kumasi-Accra Road,Oforikrom,Wednesday,19:15,Night,0,571,43.5,1,Fair,High,Yes,No,Medium
+559,Sunyani Road,Sofoline,Wednesday,10:15,Midday,0,716,80.2,0,Fair,High,Yes,Yes,High
+560,Kumasi-Ejisu Road,Ayigya,Friday,08:30,Morning Peak,0,386,35.8,1,Fair,Medium,Yes,No,Medium
+561,Kumasi-Accra Road,Oforikrom,Wednesday,08:45,Morning Peak,0,394,32.3,0,Good,Low,Yes,No,Medium
+562,Kumasi-Offinso Road,Techiman Junction,Saturday,07:30,Morning Peak,1,345,38.4,0,Fair,Low,No,Yes,Medium
+563,Kumasi-Mampong Road,Suame,Wednesday,10:30,Midday,0,309,18.4,0,Fair,Low,No,No,Low
+564,Kumasi-Mampong Road,Mampong Junction,Tuesday,05:30,Early Morning,0,212,25.0,0,Good,Low,No,No,Low
+565,Kumasi-Offinso Road,Techiman Junction,Thursday,22:30,Night,0,301,35.8,0,Good,Medium,Yes,No,Low
+566,Kumasi-Accra Road,Oforikrom,Wednesday,14:30,Midday,0,391,37.6,0,Good,Low,No,Yes,Low
+567,Kumasi-Offinso Road,Anloga Junction,Sunday,15:00,Evening Peak,1,287,36.5,0,Good,Medium,Yes,No,Medium
+568,Sunyani Road,Abrepo Junction,Saturday,05:30,Early Morning,1,245,23.5,0,Good,Medium,No,No,Low
+569,Sunyani Road,Abrepo Junction,Monday,22:15,Night,0,315,27.8,0,Good,Low,Yes,Yes,Low
+570,Sunyani Road,Abrepo Junction,Monday,22:30,Night,0,412,35.3,1,Poor,High,No,No,Medium
+571,Kumasi-Offinso Road,Anloga Junction,Thursday,22:30,Night,0,266,29.4,0,Fair,Low,Yes,No,Low
+572,Sunyani Road,Sofoline,Thursday,19:30,Night,0,486,52.6,1,Fair,Medium,Yes,No,Low
+573,Sunyani Road,Abrepo Junction,Wednesday,08:00,Morning Peak,0,539,39.5,0,Fair,Medium,No,No,Low
+574,Kumasi-Mampong Road,Tafo,Friday,05:00,Early Morning,0,290,22.1,1,Fair,Medium,No,No,Medium
+575,Kumasi-Accra Road,Asokwa,Tuesday,18:45,Evening Peak,0,749,92.8,0,Good,Medium,Yes,No,Medium
+576,Sunyani Road,Tanoso,Sunday,22:30,Night,1,345,29.8,1,Good,High,Yes,No,Medium
+577,Kumasi-Mampong Road,Mampong Junction,Thursday,21:45,Night,0,353,41.2,0,Fair,Medium,No,No,Low
+578,Kumasi-Offinso Road,Offinso Junction,Monday,06:15,Early Morning,0,427,50.2,1,Good,High,No,No,Medium
+579,Kumasi-Offinso Road,Offinso Junction,Wednesday,08:00,Morning Peak,0,525,48.4,0,Poor,High,No,No,Medium
+580,Sunyani Road,Abrepo Junction,Saturday,13:00,Midday,1,303,27.1,0,Fair,High,Yes,No,Low
+581,Kumasi-Ejisu Road,Ayigya,Monday,08:00,Morning Peak,0,610,63.7,1,Good,Medium,Yes,No,Medium
+582,Kumasi-Offinso Road,Offinso Junction,Wednesday,07:00,Morning Peak,0,298,31.3,0,Good,Low,Yes,No,Medium
+583,Kumasi-Ejisu Road,Ayigya,Wednesday,14:45,Midday,0,427,38.8,1,Fair,Medium,No,No,Low
+584,Kumasi-Offinso Road,Anloga Junction,Saturday,06:00,Early Morning,1,291,19.7,0,Fair,High,Yes,No,Low
+585,Kumasi-Mampong Road,Tafo,Tuesday,05:00,Early Morning,0,388,32.7,0,Good,High,Yes,No,Medium
+586,Kumasi-Accra Road,Oforikrom,Thursday,05:15,Early Morning,0,714,56.8,1,Good,High,Yes,No,Medium
+587,Kumasi-Mampong Road,Suame,Monday,19:15,Night,0,313,30.4,0,Good,Low,Yes,No,Low
+588,Kumasi-Offinso Road,Techiman Junction,Sunday,16:15,Evening Peak,1,277,28.1,0,Good,Low,No,No,Low
+589,Kumasi-Offinso Road,Techiman Junction,Saturday,10:30,Midday,1,240,21.1,0,Fair,Low,No,No,Low
+590,Kumasi-Accra Road,Kaase,Thursday,15:45,Evening Peak,0,580,54.5,1,Good,Medium,Yes,No,Medium
+591,Kumasi-Mampong Road,Suame,Thursday,05:45,Early Morning,0,342,40.8,0,Fair,Medium,No,No,Low
+592,Kumasi-Accra Road,Oforikrom,Monday,06:45,Early Morning,0,441,37.3,1,Fair,Medium,Yes,No,Medium
+593,Kumasi-Ejisu Road,Ejisu Junction,Friday,14:00,Midday,0,317,21.1,1,Fair,Low,No,No,Low
+594,Kumasi-Offinso Road,Anloga Junction,Monday,12:00,Midday,0,313,35.6,0,Good,Medium,No,Yes,Low
+595,Sunyani Road,Abrepo Junction,Friday,15:00,Evening Peak,0,789,71.8,1,Good,Medium,No,No,Medium
+596,Kumasi-Offinso Road,Offinso Junction,Thursday,07:30,Morning Peak,0,466,43.1,1,Fair,Medium,Yes,No,High
+597,Kumasi-Accra Road,Oforikrom,Thursday,06:00,Early Morning,0,456,38.2,0,Good,High,Yes,No,Low
+598,Sunyani Road,Abrepo Junction,Wednesday,07:30,Morning Peak,0,680,71.0,0,Fair,High,Yes,No,High
+599,Kumasi-Accra Road,Oforikrom,Tuesday,09:00,Morning Peak,0,414,46.3,0,Fair,Medium,Yes,Yes,Medium
+600,Kumasi-Ejisu Road,KNUST Gate,Thursday,05:15,Early Morning,0,759,78.1,1,Good,High,No,No,Medium
+601,Kumasi-Mampong Road,Tafo,Saturday,09:15,Morning Peak,1,225,19.7,0,Fair,Low,No,No,Low
+602,Sunyani Road,Tanoso,Sunday,13:00,Midday,1,321,38.1,0,Fair,Medium,Yes,No,Low
+603,Kumasi-Offinso Road,Offinso Junction,Thursday,05:00,Early Morning,0,394,40.7,0,Fair,Medium,Yes,No,Low
+604,Sunyani Road,Sofoline,Friday,09:00,Morning Peak,0,627,49.6,0,Good,Medium,No,No,Medium
+605,Sunyani Road,Abrepo Junction,Thursday,21:00,Night,0,460,39.1,1,Good,Medium,Yes,No,Low
+606,Sunyani Road,Sofoline,Monday,15:15,Evening Peak,0,603,49.1,1,Fair,Medium,Yes,No,High
+607,Kumasi-Ejisu Road,Ejisu Junction,Thursday,11:15,Midday,0,376,28.8,1,Good,Low,Yes,No,Low
+608,Kumasi-Accra Road,Oforikrom,Saturday,12:15,Midday,1,369,42.7,0,Good,High,No,No,Medium
+609,Kumasi-Accra Road,Asokwa,Friday,21:00,Night,0,419,43.7,1,Fair,Medium,Yes,No,Medium
+610,Kumasi-Mampong Road,Mampong Junction,Monday,07:15,Morning Peak,0,639,75.2,0,Good,High,Yes,No,High
+611,Kumasi-Mampong Road,Suame,Friday,17:45,Evening Peak,0,484,42.6,0,Fair,Medium,No,No,Medium
+612,Kumasi-Offinso Road,Anloga Junction,Thursday,11:00,Midday,0,488,37.9,0,Fair,High,Yes,No,Low
+613,Kumasi-Accra Road,Asokwa,Sunday,09:45,Morning Peak,1,656,72.0,0,Good,High,No,Yes,High
+614,Kumasi-Mampong Road,Mampong Junction,Saturday,05:00,Early Morning,1,280,25.7,0,Poor,Medium,No,No,Medium
+615,Kumasi-Mampong Road,Tafo,Sunday,14:00,Midday,1,216,17.6,0,Good,Low,No,No,Low
+616,Kumasi-Offinso Road,Offinso Junction,Sunday,06:15,Early Morning,1,249,27.8,0,Fair,Medium,Yes,No,Low
+617,Sunyani Road,Tanoso,Sunday,08:15,Morning Peak,1,430,39.0,0,Good,Medium,Yes,No,Medium
+618,Sunyani Road,Tanoso,Tuesday,08:00,Morning Peak,0,611,60.5,0,Fair,Medium,Yes,No,Medium
+619,Kumasi-Accra Road,Asokwa,Monday,17:15,Evening Peak,0,463,42.0,1,Good,Low,Yes,No,Medium
+620,Kumasi-Offinso Road,Offinso Junction,Tuesday,05:45,Early Morning,0,315,32.1,0,Fair,Medium,No,No,Low
+621,Kumasi-Offinso Road,Techiman Junction,Wednesday,08:00,Morning Peak,0,494,50.7,0,Fair,Medium,No,Yes,Medium
+622,Kumasi-Accra Road,Kaase,Tuesday,22:45,Night,0,529,46.4,1,Good,Medium,Yes,No,Medium
+623,Kumasi-Ejisu Road,Ayigya,Sunday,05:00,Early Morning,1,298,23.3,0,Good,Low,No,No,Low
+624,Kumasi-Mampong Road,Suame,Saturday,06:00,Early Morning,1,224,23.0,1,Good,Low,Yes,No,Low
+625,Kumasi-Offinso Road,Techiman Junction,Thursday,09:45,Morning Peak,0,394,38.9,0,Fair,Low,Yes,No,Medium
+626,Kumasi-Accra Road,Kaase,Monday,07:00,Morning Peak,0,612,48.2,0,Fair,Medium,No,No,Medium
+627,Kumasi-Offinso Road,Anloga Junction,Thursday,09:15,Morning Peak,0,520,55.1,1,Fair,High,No,No,Medium
+628,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,13:30,Midday,0,373,43.2,0,Good,Low,Yes,No,Low
+629,Kumasi-Ejisu Road,Ejisu Junction,Monday,08:45,Morning Peak,0,537,45.3,0,Good,Low,No,No,Low
+630,Kumasi-Ejisu Road,KNUST Gate,Thursday,15:45,Evening Peak,0,621,60.4,1,Good,High,No,No,High
+631,Kumasi-Mampong Road,Tafo,Tuesday,14:15,Midday,0,252,28.8,1,Fair,Low,Yes,No,Low
+632,Kumasi-Accra Road,Kaase,Saturday,09:30,Morning Peak,1,526,61.2,0,Poor,Medium,No,No,Medium
+633,Kumasi-Offinso Road,Techiman Junction,Wednesday,22:15,Night,0,310,30.5,0,Fair,Medium,Yes,No,Low
+634,Kumasi-Accra Road,Kaase,Sunday,09:15,Morning Peak,1,507,44.1,0,Fair,High,No,No,Medium
+635,Kumasi-Offinso Road,Offinso Junction,Friday,15:45,Evening Peak,0,284,34.0,1,Good,Low,Yes,No,Medium
+636,Sunyani Road,Abrepo Junction,Friday,06:30,Early Morning,0,364,29.7,0,Good,Low,Yes,No,Low
+637,Sunyani Road,Abrepo Junction,Wednesday,10:00,Midday,0,583,49.4,0,Good,High,No,No,Low
+638,Kumasi-Accra Road,Oforikrom,Friday,17:15,Evening Peak,0,499,51.4,0,Good,Medium,Yes,No,Medium
+639,Kumasi-Offinso Road,Offinso Junction,Sunday,15:15,Evening Peak,1,251,29.8,0,Fair,Medium,Yes,No,Medium
+640,Kumasi-Offinso Road,Anloga Junction,Saturday,09:00,Morning Peak,1,322,25.7,1,Good,High,No,No,High
+641,Kumasi-Accra Road,Asokwa,Thursday,18:45,Evening Peak,0,577,50.9,0,Fair,Medium,Yes,No,Medium
+642,Kumasi-Accra Road,Oforikrom,Friday,05:30,Early Morning,0,336,25.7,0,Good,Low,Yes,No,Low
+643,Kumasi-Accra Road,Oforikrom,Friday,06:00,Early Morning,0,306,21.7,0,Fair,Low,No,No,Low
+644,Kumasi-Accra Road,Kaase,Friday,06:45,Early Morning,0,703,68.3,1,Good,High,Yes,No,Medium
+645,Kumasi-Accra Road,Oforikrom,Saturday,21:30,Night,1,230,18.0,0,Good,Low,Yes,No,Low
+646,Kumasi-Ejisu Road,KNUST Gate,Monday,07:30,Morning Peak,0,591,72.2,1,Good,Low,No,No,Medium
+647,Sunyani Road,Abrepo Junction,Tuesday,18:45,Evening Peak,0,608,64.4,1,Fair,High,No,No,Medium
+648,Sunyani Road,Tanoso,Thursday,11:15,Midday,0,275,22.7,0,Fair,Low,Yes,No,Low
+649,Kumasi-Ejisu Road,Ejisu Junction,Friday,18:00,Evening Peak,0,461,44.7,1,Poor,Medium,No,No,Medium
+650,Kumasi-Ejisu Road,Ayigya,Wednesday,15:30,Evening Peak,0,343,39.4,0,Poor,Low,Yes,No,Medium
+651,Kumasi-Mampong Road,Suame,Thursday,07:45,Morning Peak,0,715,60.1,1,Good,High,Yes,No,High
+652,Kumasi-Mampong Road,Mampong Junction,Friday,21:15,Night,0,381,31.0,0,Good,High,Yes,No,Medium
+653,Sunyani Road,Sofoline,Monday,17:30,Evening Peak,0,449,43.1,0,Poor,High,Yes,No,High
+654,Kumasi-Accra Road,Asokwa,Friday,14:15,Midday,0,348,30.2,0,Good,Low,Yes,No,Low
+655,Kumasi-Offinso Road,Offinso Junction,Sunday,12:45,Midday,1,221,22.1,0,Good,High,No,No,Medium
+656,Kumasi-Ejisu Road,Ayigya,Sunday,09:15,Morning Peak,1,529,53.4,0,Good,Medium,No,No,Low
+657,Kumasi-Offinso Road,Anloga Junction,Tuesday,09:15,Morning Peak,0,440,39.5,0,Poor,Medium,Yes,No,Medium
+658,Kumasi-Offinso Road,Anloga Junction,Thursday,09:45,Morning Peak,0,418,33.0,0,Fair,Low,Yes,No,Medium
+659,Kumasi-Accra Road,Kaase,Wednesday,09:45,Morning Peak,0,430,36.7,0,Good,Low,Yes,No,Low
+660,Kumasi-Accra Road,Kaase,Tuesday,18:15,Evening Peak,0,622,50.2,0,Good,Medium,No,No,Medium
+661,Kumasi-Accra Road,Oforikrom,Thursday,11:30,Midday,0,369,37.3,0,Good,Low,No,No,Low
+662,Kumasi-Ejisu Road,Ejisu Junction,Thursday,06:30,Early Morning,0,608,58.2,0,Good,High,Yes,No,Medium
+663,Kumasi-Offinso Road,Offinso Junction,Tuesday,06:15,Early Morning,0,290,29.4,0,Good,Low,Yes,No,Low
+664,Sunyani Road,Sofoline,Tuesday,05:15,Early Morning,0,487,48.8,1,Poor,High,No,No,Medium
+665,Kumasi-Accra Road,Asokwa,Wednesday,06:00,Early Morning,0,498,41.2,0,Poor,High,No,No,Medium
+666,Sunyani Road,Sofoline,Thursday,09:00,Morning Peak,0,299,31.7,0,Fair,Medium,No,No,Low
+667,Kumasi-Offinso Road,Offinso Junction,Thursday,11:00,Midday,0,296,30.4,0,Good,Low,Yes,No,Low
+668,Sunyani Road,Abrepo Junction,Thursday,11:30,Midday,0,351,34.2,0,Good,Low,Yes,Yes,Low
+669,Kumasi-Accra Road,Asokwa,Friday,05:00,Early Morning,0,558,46.8,0,Good,High,No,No,Low
+670,Kumasi-Offinso Road,Anloga Junction,Saturday,17:15,Evening Peak,1,321,32.9,1,Good,Low,Yes,No,Medium
+671,Kumasi-Ejisu Road,KNUST Gate,Thursday,07:15,Morning Peak,0,516,52.7,0,Fair,Low,Yes,No,Low
+672,Sunyani Road,Abrepo Junction,Thursday,21:45,Night,0,368,39.0,0,Good,Medium,Yes,Yes,Medium
+673,Kumasi-Offinso Road,Techiman Junction,Saturday,09:45,Morning Peak,1,305,29.4,0,Good,Low,Yes,No,Medium
+674,Kumasi-Offinso Road,Anloga Junction,Saturday,19:00,Night,1,219,19.8,0,Fair,Low,No,Yes,Low
+675,Kumasi-Offinso Road,Techiman Junction,Friday,06:00,Early Morning,0,346,29.1,0,Fair,Medium,Yes,No,Low
+676,Kumasi-Accra Road,Asokwa,Tuesday,16:30,Evening Peak,0,596,58.4,0,Good,Medium,No,No,Low
+677,Sunyani Road,Sofoline,Tuesday,05:00,Early Morning,0,359,37.5,0,Fair,Medium,No,No,Low
+678,Kumasi-Accra Road,Kaase,Thursday,15:30,Evening Peak,0,478,40.8,0,Fair,Low,No,No,Medium
+679,Kumasi-Accra Road,Asokwa,Saturday,22:45,Night,1,431,27.3,0,Poor,Medium,No,No,Low
+680,Kumasi-Offinso Road,Offinso Junction,Thursday,05:30,Early Morning,0,269,30.2,0,Fair,Low,Yes,No,Low
+681,Kumasi-Ejisu Road,KNUST Gate,Thursday,22:45,Night,0,454,52.4,0,Fair,High,Yes,No,Low
+682,Kumasi-Offinso Road,Techiman Junction,Thursday,06:15,Early Morning,0,445,41.5,1,Good,Medium,Yes,No,Medium
+683,Kumasi-Mampong Road,Mampong Junction,Sunday,10:30,Midday,1,248,29.2,0,Fair,Medium,Yes,No,Low
+684,Sunyani Road,Abrepo Junction,Saturday,22:00,Night,1,366,36.5,0,Good,Medium,No,No,Low
+685,Kumasi-Mampong Road,Mampong Junction,Saturday,13:45,Midday,1,169,15.3,1,Fair,Low,Yes,No,Low
+686,Kumasi-Offinso Road,Anloga Junction,Friday,16:45,Evening Peak,0,414,34.9,1,Good,Medium,Yes,No,High
+687,Kumasi-Offinso Road,Offinso Junction,Monday,05:30,Early Morning,0,290,30.1,0,Good,Low,Yes,No,Low
+688,Kumasi-Mampong Road,Mampong Junction,Thursday,17:15,Evening Peak,0,700,81.6,1,Good,High,Yes,No,High
+689,Kumasi-Offinso Road,Techiman Junction,Saturday,06:00,Early Morning,1,252,21.4,0,Poor,Low,Yes,No,Low
+690,Kumasi-Mampong Road,Tafo,Tuesday,09:30,Morning Peak,0,452,48.1,0,Good,Medium,No,No,Medium
+691,Kumasi-Offinso Road,Offinso Junction,Thursday,08:00,Morning Peak,0,655,51.5,1,Good,High,Yes,No,High
+692,Kumasi-Mampong Road,Mampong Junction,Sunday,05:00,Early Morning,1,225,14.4,0,Good,Low,No,No,Low
+693,Kumasi-Offinso Road,Techiman Junction,Friday,09:00,Morning Peak,0,508,53.9,1,Good,Low,No,No,Medium
+694,Kumasi-Ejisu Road,Ayigya,Friday,06:00,Early Morning,0,449,40.2,0,Good,Medium,No,No,Low
+695,Kumasi-Accra Road,Kaase,Thursday,07:15,Morning Peak,0,906,73.7,0,Fair,High,No,No,High
+696,Sunyani Road,Sofoline,Thursday,16:15,Evening Peak,0,543,51.6,0,Fair,Medium,No,No,Medium
+697,Kumasi-Ejisu Road,Ayigya,Saturday,10:00,Midday,1,273,31.6,0,Good,Medium,Yes,No,Low
+698,Kumasi-Offinso Road,Anloga Junction,Monday,15:15,Evening Peak,0,520,59.5,1,Fair,Medium,Yes,No,Medium
+699,Kumasi-Offinso Road,Anloga Junction,Thursday,22:45,Night,0,343,29.0,1,Fair,Medium,Yes,No,Low
+700,Kumasi-Accra Road,Oforikrom,Friday,05:00,Early Morning,0,392,36.3,1,Poor,Low,No,No,Medium
+701,Kumasi-Mampong Road,Tafo,Saturday,10:00,Midday,1,411,52.0,0,Fair,High,Yes,No,Medium
+702,Kumasi-Accra Road,Asokwa,Wednesday,14:45,Midday,0,428,36.5,0,Fair,Medium,Yes,No,Low
+703,Sunyani Road,Sofoline,Tuesday,12:45,Midday,0,453,36.7,1,Good,Medium,Yes,Yes,Medium
+704,Kumasi-Offinso Road,Techiman Junction,Wednesday,15:15,Evening Peak,0,531,56.2,1,Good,Medium,Yes,No,Medium
+705,Kumasi-Accra Road,Asokwa,Thursday,12:00,Midday,0,502,40.1,0,Good,Medium,Yes,No,Low
+706,Kumasi-Offinso Road,Techiman Junction,Saturday,08:45,Morning Peak,1,377,41.0,0,Fair,Medium,No,No,Medium
+707,Kumasi-Offinso Road,Techiman Junction,Friday,06:15,Early Morning,0,511,46.7,1,Fair,Medium,Yes,No,Low
+708,Sunyani Road,Sofoline,Friday,13:45,Midday,0,347,31.2,0,Fair,Low,Yes,Yes,Low
+709,Sunyani Road,Tanoso,Wednesday,18:00,Evening Peak,0,495,47.6,0,Fair,Medium,Yes,Yes,High
+710,Kumasi-Mampong Road,Tafo,Wednesday,07:15,Morning Peak,0,586,61.4,0,Good,High,No,No,Medium
+711,Kumasi-Accra Road,Kaase,Friday,05:00,Early Morning,0,554,54.5,1,Good,Medium,No,No,Medium
+712,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,18:00,Evening Peak,0,542,49.7,0,Good,Medium,Yes,No,Medium
+713,Kumasi-Mampong Road,Mampong Junction,Thursday,07:15,Morning Peak,0,739,63.1,0,Fair,Medium,Yes,No,Medium
+714,Kumasi-Mampong Road,Mampong Junction,Tuesday,22:45,Night,0,330,27.0,0,Fair,Medium,No,Yes,Medium
+715,Kumasi-Offinso Road,Techiman Junction,Tuesday,19:15,Night,0,384,36.0,1,Good,Medium,Yes,Yes,Medium
+716,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,13:30,Midday,0,444,46.3,0,Good,Medium,Yes,No,Low
+717,Kumasi-Mampong Road,Suame,Monday,09:00,Morning Peak,0,396,34.9,1,Fair,Medium,Yes,No,Medium
+718,Kumasi-Offinso Road,Offinso Junction,Friday,18:15,Evening Peak,0,739,85.8,0,Good,High,Yes,No,High
+719,Kumasi-Ejisu Road,Ejisu Junction,Saturday,15:30,Evening Peak,1,334,34.6,0,Fair,Low,Yes,No,Low
+720,Kumasi-Mampong Road,Tafo,Monday,21:00,Night,0,300,25.0,1,Good,Medium,Yes,No,Low
+721,Kumasi-Mampong Road,Suame,Friday,21:45,Night,0,406,49.5,0,Fair,High,Yes,No,Medium
+722,Kumasi-Accra Road,Asokwa,Monday,22:30,Night,0,287,27.7,0,Good,Low,Yes,No,Low
+723,Kumasi-Mampong Road,Mampong Junction,Saturday,19:30,Night,1,325,36.7,0,Good,Medium,No,Yes,Low
+724,Kumasi-Ejisu Road,Ayigya,Saturday,14:45,Midday,1,269,19.1,0,Good,Low,No,No,Low
+725,Kumasi-Mampong Road,Tafo,Friday,17:30,Evening Peak,0,510,40.6,1,Good,Medium,Yes,No,Medium
+726,Kumasi-Mampong Road,Suame,Friday,12:45,Midday,0,413,44.9,0,Fair,Medium,No,Yes,Medium
+727,Kumasi-Offinso Road,Offinso Junction,Sunday,08:45,Morning Peak,1,570,68.2,1,Good,High,No,No,High
+728,Kumasi-Ejisu Road,Ayigya,Tuesday,20:30,Night,0,360,28.8,1,Fair,Low,No,No,Low
+729,Kumasi-Accra Road,Kaase,Tuesday,05:30,Early Morning,0,408,35.3,0,Good,Medium,Yes,No,Low
+730,Kumasi-Accra Road,Oforikrom,Friday,08:15,Morning Peak,0,475,39.9,0,Good,Medium,No,No,Medium
+731,Kumasi-Offinso Road,Offinso Junction,Saturday,07:15,Morning Peak,1,447,41.0,0,Good,High,Yes,No,High
+732,Kumasi-Ejisu Road,Ejisu Junction,Thursday,09:15,Morning Peak,0,690,75.3,1,Good,Medium,Yes,No,High
+733,Sunyani Road,Tanoso,Thursday,20:30,Night,0,282,20.5,0,Poor,Medium,Yes,No,Medium
+734,Kumasi-Offinso Road,Techiman Junction,Sunday,09:00,Morning Peak,1,450,41.6,0,Good,High,Yes,No,Medium
+735,Kumasi-Ejisu Road,Ejisu Junction,Saturday,07:30,Morning Peak,1,462,48.6,1,Good,Medium,Yes,No,Medium
+736,Kumasi-Ejisu Road,Ejisu Junction,Tuesday,22:30,Night,0,467,36.3,0,Fair,Medium,Yes,No,Low
+737,Kumasi-Offinso Road,Offinso Junction,Friday,11:15,Midday,0,414,44.8,0,Fair,High,Yes,No,Low
+738,Kumasi-Mampong Road,Suame,Wednesday,08:15,Morning Peak,0,325,30.8,0,Good,Low,Yes,Yes,Medium
+739,Kumasi-Accra Road,Kaase,Thursday,17:30,Evening Peak,0,499,41.5,0,Good,Low,Yes,No,Low
+740,Kumasi-Ejisu Road,Ayigya,Saturday,08:00,Morning Peak,1,354,32.2,0,Good,Low,Yes,Yes,Medium
+741,Kumasi-Offinso Road,Anloga Junction,Tuesday,07:45,Morning Peak,0,492,46.3,0,Poor,High,Yes,No,High
+742,Kumasi-Accra Road,Asokwa,Sunday,14:00,Midday,1,224,22.2,0,Fair,Low,Yes,No,Low
+743,Kumasi-Offinso Road,Anloga Junction,Sunday,15:15,Evening Peak,1,396,27.4,0,Good,Medium,Yes,No,Medium
+744,Sunyani Road,Tanoso,Monday,09:30,Morning Peak,0,557,64.8,1,Good,Medium,Yes,No,High
+745,Kumasi-Ejisu Road,KNUST Gate,Sunday,15:45,Evening Peak,1,579,69.3,0,Good,Medium,No,No,Medium
+746,Sunyani Road,Sofoline,Monday,06:00,Early Morning,0,407,48.3,0,Good,Medium,No,No,Low
+747,Sunyani Road,Abrepo Junction,Thursday,08:00,Morning Peak,0,452,37.5,0,Fair,Medium,No,No,Medium
+748,Kumasi-Ejisu Road,Ayigya,Sunday,15:30,Evening Peak,1,479,37.1,0,Good,Medium,No,No,Medium
+749,Kumasi-Ejisu Road,KNUST Gate,Thursday,06:00,Early Morning,0,505,44.7,0,Good,High,Yes,No,Medium
+750,Kumasi-Ejisu Road,KNUST Gate,Thursday,07:30,Morning Peak,0,968,75.4,0,Good,High,Yes,No,High
+751,Kumasi-Mampong Road,Mampong Junction,Saturday,20:15,Night,1,185,13.8,0,Good,Low,No,No,Low
+752,Kumasi-Mampong Road,Tafo,Tuesday,05:15,Early Morning,0,307,35.5,0,Fair,Low,Yes,No,Low
+753,Kumasi-Offinso Road,Offinso Junction,Friday,09:45,Morning Peak,0,403,36.0,0,Fair,Low,Yes,No,Low
+754,Kumasi-Ejisu Road,Ayigya,Monday,07:00,Morning Peak,0,672,53.3,1,Good,Medium,Yes,No,High
+755,Kumasi-Mampong Road,Mampong Junction,Monday,10:15,Midday,0,361,31.6,1,Good,Low,Yes,No,Low
+756,Sunyani Road,Abrepo Junction,Wednesday,13:15,Midday,0,463,43.7,1,Fair,High,No,Yes,Medium
+757,Kumasi-Offinso Road,Techiman Junction,Monday,15:45,Evening Peak,0,371,31.1,0,Fair,Low,Yes,No,Medium
+758,Kumasi-Ejisu Road,Ejisu Junction,Sunday,08:45,Morning Peak,1,504,64.2,0,Good,Medium,No,No,Low
+759,Kumasi-Offinso Road,Techiman Junction,Sunday,07:15,Morning Peak,1,356,33.4,0,Good,High,No,Yes,Medium
+760,Kumasi-Accra Road,Kaase,Thursday,05:15,Early Morning,0,255,23.0,0,Good,Low,Yes,No,Low
+761,Kumasi-Mampong Road,Suame,Monday,06:00,Early Morning,0,346,35.3,0,Good,Medium,Yes,No,Low
+762,Sunyani Road,Tanoso,Thursday,18:00,Evening Peak,0,657,69.9,1,Fair,High,Yes,No,High
+763,Kumasi-Accra Road,Kaase,Thursday,09:30,Morning Peak,0,668,60.3,0,Good,Medium,Yes,No,Medium
+764,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,19:45,Night,0,659,60.4,0,Good,High,Yes,No,Low
+765,Kumasi-Accra Road,Kaase,Thursday,13:00,Midday,0,340,25.1,1,Good,High,Yes,No,Medium
+766,Kumasi-Accra Road,Oforikrom,Friday,06:45,Early Morning,0,464,38.8,0,Fair,Medium,Yes,No,Low
+767,Kumasi-Accra Road,Oforikrom,Friday,08:15,Morning Peak,0,534,53.6,0,Poor,Low,Yes,No,Medium
+768,Sunyani Road,Abrepo Junction,Thursday,10:45,Midday,0,510,38.7,0,Good,Medium,No,No,Low
+769,Kumasi-Mampong Road,Suame,Tuesday,17:15,Evening Peak,0,537,49.5,0,Good,Low,Yes,No,Medium
+770,Sunyani Road,Sofoline,Wednesday,10:15,Midday,0,468,62.1,0,Fair,Medium,No,No,Low
+771,Kumasi-Offinso Road,Techiman Junction,Tuesday,06:45,Early Morning,0,439,46.6,1,Good,Medium,Yes,Yes,Medium
+772,Kumasi-Offinso Road,Techiman Junction,Sunday,22:00,Night,1,302,32.1,0,Fair,Medium,Yes,No,Low
+773,Kumasi-Mampong Road,Suame,Thursday,10:00,Midday,0,275,23.4,1,Fair,Medium,Yes,No,Low
+774,Sunyani Road,Abrepo Junction,Wednesday,05:00,Early Morning,0,412,38.5,0,Good,Low,No,No,Low
+775,Kumasi-Ejisu Road,Ayigya,Sunday,17:30,Evening Peak,1,613,73.4,0,Good,Medium,Yes,Yes,High
+776,Kumasi-Accra Road,Oforikrom,Friday,21:30,Night,0,475,40.7,0,Fair,Medium,Yes,No,Low
+777,Kumasi-Offinso Road,Anloga Junction,Thursday,06:30,Early Morning,0,435,45.7,0,Fair,High,No,No,Medium
+778,Kumasi-Ejisu Road,Ejisu Junction,Friday,19:45,Night,0,447,41.2,0,Good,Medium,No,No,Low
+779,Kumasi-Accra Road,Kaase,Saturday,15:45,Evening Peak,1,618,60.0,1,Good,High,Yes,No,High
+780,Sunyani Road,Tanoso,Monday,16:00,Evening Peak,0,526,44.4,0,Fair,High,Yes,No,Medium
+781,Kumasi-Accra Road,Kaase,Wednesday,06:00,Early Morning,0,325,32.0,0,Fair,High,No,Yes,Medium
+782,Kumasi-Mampong Road,Mampong Junction,Tuesday,14:15,Midday,0,281,22.2,0,Poor,Medium,No,No,Medium
+783,Sunyani Road,Abrepo Junction,Thursday,05:00,Early Morning,0,324,33.8,0,Good,Low,No,No,Low
+784,Kumasi-Ejisu Road,Ayigya,Wednesday,15:45,Evening Peak,0,532,45.4,0,Good,Medium,No,No,Low
+785,Kumasi-Ejisu Road,Ejisu Junction,Thursday,20:45,Night,0,406,52.4,1,Good,High,Yes,No,Medium
+786,Sunyani Road,Tanoso,Friday,19:15,Night,0,360,24.4,1,Good,Low,Yes,No,Low
+787,Kumasi-Mampong Road,Tafo,Friday,09:30,Morning Peak,0,669,50.3,0,Poor,High,No,No,Medium
+788,Kumasi-Ejisu Road,Ayigya,Tuesday,08:30,Morning Peak,0,497,41.3,0,Fair,Medium,Yes,No,Medium
+789,Kumasi-Mampong Road,Mampong Junction,Saturday,12:45,Midday,1,282,22.6,0,Good,Medium,Yes,No,Low
+790,Sunyani Road,Tanoso,Sunday,17:30,Evening Peak,1,491,55.8,0,Good,Medium,No,No,Low
+791,Kumasi-Accra Road,Oforikrom,Sunday,14:00,Midday,1,302,24.6,0,Fair,Low,Yes,No,Low
+792,Sunyani Road,Sofoline,Monday,15:45,Evening Peak,0,555,46.8,0,Fair,Medium,No,No,Low
+793,Kumasi-Mampong Road,Suame,Tuesday,16:30,Evening Peak,0,456,35.3,0,Fair,Low,Yes,No,Medium
+794,Kumasi-Accra Road,Kaase,Tuesday,15:45,Evening Peak,0,485,43.5,0,Good,Medium,Yes,No,Medium
+795,Kumasi-Mampong Road,Mampong Junction,Friday,08:30,Morning Peak,0,371,34.6,1,Poor,Low,No,No,Medium
+796,Kumasi-Mampong Road,Mampong Junction,Wednesday,21:00,Night,0,289,24.4,0,Good,Low,Yes,No,Low
+797,Sunyani Road,Tanoso,Saturday,10:45,Midday,1,377,35.0,1,Good,Medium,No,No,Low
+798,Kumasi-Mampong Road,Mampong Junction,Wednesday,15:30,Evening Peak,0,564,68.8,1,Good,Medium,Yes,No,High
+799,Kumasi-Mampong Road,Suame,Thursday,21:15,Night,0,339,42.6,0,Good,Medium,Yes,No,Low
+800,Kumasi-Mampong Road,Suame,Friday,06:30,Early Morning,0,351,38.5,0,Good,Low,No,No,Low
+801,Sunyani Road,Abrepo Junction,Thursday,20:45,Night,0,514,65.9,0,Fair,High,Yes,No,Low
+802,Kumasi-Offinso Road,Techiman Junction,Friday,16:45,Evening Peak,0,531,48.5,1,Good,Medium,Yes,No,Medium
+803,Kumasi-Mampong Road,Mampong Junction,Thursday,06:00,Early Morning,0,472,43.6,1,Good,High,No,No,Medium
+804,Kumasi-Accra Road,Kaase,Sunday,18:30,Evening Peak,1,416,42.3,0,Fair,Low,No,Yes,Medium
+805,Kumasi-Ejisu Road,KNUST Gate,Saturday,11:45,Midday,1,296,28.2,0,Good,Medium,No,No,Low
+806,Kumasi-Ejisu Road,Ayigya,Thursday,19:15,Night,0,467,45.8,0,Good,Low,No,No,Low
+807,Kumasi-Offinso Road,Offinso Junction,Saturday,16:45,Evening Peak,1,301,20.3,0,Good,Medium,Yes,No,Medium
+808,Kumasi-Offinso Road,Offinso Junction,Saturday,21:30,Night,1,245,32.8,0,Poor,Medium,No,No,Low
+809,Kumasi-Mampong Road,Mampong Junction,Sunday,07:45,Morning Peak,1,293,23.3,0,Good,Medium,Yes,No,Medium
+810,Sunyani Road,Abrepo Junction,Wednesday,06:30,Early Morning,0,488,43.8,0,Good,Medium,Yes,No,Low
+811,Kumasi-Ejisu Road,Ejisu Junction,Friday,11:30,Midday,0,550,46.7,1,Fair,Medium,Yes,No,Low
+812,Kumasi-Ejisu Road,KNUST Gate,Tuesday,05:15,Early Morning,0,304,25.1,0,Fair,Low,Yes,No,Low
+813,Kumasi-Offinso Road,Anloga Junction,Thursday,13:30,Midday,0,346,26.2,0,Fair,High,Yes,Yes,Medium
+814,Kumasi-Ejisu Road,KNUST Gate,Monday,20:45,Night,0,344,27.4,0,Fair,Low,No,No,Low
+815,Kumasi-Mampong Road,Tafo,Monday,16:45,Evening Peak,0,678,66.6,0,Good,High,Yes,No,High
+816,Kumasi-Accra Road,Oforikrom,Saturday,08:00,Morning Peak,1,473,48.3,1,Good,Low,Yes,Yes,Medium
+817,Kumasi-Mampong Road,Tafo,Tuesday,11:00,Midday,0,324,31.1,0,Good,Low,No,No,Low
+818,Sunyani Road,Tanoso,Friday,13:30,Midday,0,435,51.9,0,Good,Medium,Yes,No,Low
+819,Sunyani Road,Sofoline,Monday,08:15,Morning Peak,0,552,61.8,1,Good,Medium,Yes,No,Medium
+820,Kumasi-Offinso Road,Anloga Junction,Friday,05:45,Early Morning,0,442,42.7,0,Fair,Medium,Yes,No,Low
+821,Kumasi-Offinso Road,Anloga Junction,Thursday,08:30,Morning Peak,0,306,26.4,0,Good,Low,Yes,No,Medium
+822,Kumasi-Offinso Road,Offinso Junction,Monday,22:00,Night,0,224,26.4,0,Fair,Low,No,No,Low
+823,Kumasi-Ejisu Road,Ejisu Junction,Sunday,09:45,Morning Peak,1,368,37.4,0,Good,Medium,No,No,Medium
+824,Kumasi-Accra Road,Kaase,Sunday,19:45,Night,1,320,33.6,1,Fair,Low,Yes,Yes,Low
+825,Kumasi-Accra Road,Oforikrom,Monday,21:15,Night,0,562,54.6,0,Good,High,Yes,No,Medium
+826,Kumasi-Mampong Road,Tafo,Monday,07:30,Morning Peak,0,484,56.7,0,Good,Low,No,No,Low
+827,Kumasi-Offinso Road,Offinso Junction,Friday,06:45,Early Morning,0,300,30.4,0,Fair,Medium,Yes,Yes,Low
+828,Kumasi-Accra Road,Asokwa,Friday,08:15,Morning Peak,0,615,65.9,0,Fair,Low,No,No,Medium
+829,Kumasi-Accra Road,Asokwa,Friday,13:15,Midday,0,430,42.0,0,Good,Medium,Yes,No,Low
+830,Sunyani Road,Sofoline,Tuesday,09:30,Morning Peak,0,438,47.5,0,Good,Medium,No,No,Low
+831,Kumasi-Offinso Road,Anloga Junction,Wednesday,14:15,Midday,0,283,28.5,1,Good,Low,No,No,Low
+832,Kumasi-Ejisu Road,Ejisu Junction,Thursday,22:00,Night,0,343,32.0,0,Poor,High,Yes,No,Medium
+833,Kumasi-Offinso Road,Techiman Junction,Thursday,07:15,Morning Peak,0,534,45.8,0,Good,High,No,No,Medium
+834,Kumasi-Accra Road,Kaase,Thursday,18:00,Evening Peak,0,890,77.7,0,Good,High,No,No,High
+835,Kumasi-Accra Road,Oforikrom,Thursday,09:30,Morning Peak,0,501,35.6,1,Good,Low,Yes,No,Medium
+836,Sunyani Road,Abrepo Junction,Tuesday,13:45,Midday,0,312,31.5,0,Fair,Medium,Yes,No,Low
+837,Kumasi-Accra Road,Asokwa,Monday,05:15,Early Morning,0,579,49.8,0,Fair,High,Yes,No,Medium
+838,Kumasi-Accra Road,Kaase,Monday,15:15,Evening Peak,0,604,47.8,0,Good,Medium,Yes,No,Medium
+839,Kumasi-Ejisu Road,Ayigya,Sunday,15:45,Evening Peak,1,621,74.8,1,Good,High,Yes,No,High
+840,Sunyani Road,Sofoline,Saturday,13:30,Midday,1,368,30.4,0,Good,Medium,Yes,Yes,Medium
+841,Kumasi-Accra Road,Asokwa,Thursday,22:00,Night,0,372,28.3,0,Fair,Low,Yes,No,Low
+842,Kumasi-Ejisu Road,KNUST Gate,Saturday,15:30,Evening Peak,1,301,37.7,0,Good,Low,Yes,No,Medium
+843,Kumasi-Ejisu Road,Ejisu Junction,Monday,22:45,Night,0,316,24.9,0,Good,Low,Yes,No,Low
+844,Kumasi-Offinso Road,Offinso Junction,Saturday,05:30,Early Morning,1,328,30.7,0,Good,Medium,Yes,No,Low
+845,Kumasi-Accra Road,Kaase,Wednesday,16:45,Evening Peak,0,778,80.9,0,Good,High,Yes,Yes,High
+846,Kumasi-Accra Road,Kaase,Wednesday,16:15,Evening Peak,0,551,44.2,0,Fair,Low,Yes,No,Low
+847,Kumasi-Offinso Road,Anloga Junction,Sunday,17:00,Evening Peak,1,446,37.0,0,Good,Medium,No,No,Medium
+848,Kumasi-Accra Road,Asokwa,Saturday,15:15,Evening Peak,1,446,52.1,0,Fair,Medium,No,No,Medium
+849,Sunyani Road,Abrepo Junction,Monday,17:15,Evening Peak,0,512,53.5,1,Fair,Low,No,No,Medium
+850,Kumasi-Offinso Road,Techiman Junction,Friday,15:45,Evening Peak,0,512,56.8,0,Good,High,No,No,Medium
+851,Kumasi-Ejisu Road,Ejisu Junction,Monday,16:15,Evening Peak,0,783,63.0,1,Fair,Medium,No,No,High
+852,Kumasi-Ejisu Road,KNUST Gate,Sunday,06:15,Early Morning,1,373,32.7,1,Good,Low,No,No,Low
+853,Kumasi-Ejisu Road,Ayigya,Friday,06:15,Early Morning,0,351,29.4,1,Poor,Medium,Yes,Yes,Medium
+854,Kumasi-Offinso Road,Offinso Junction,Friday,10:00,Midday,0,427,34.3,0,Good,High,Yes,No,Medium
+855,Kumasi-Ejisu Road,Ayigya,Wednesday,21:30,Night,0,438,41.0,0,Good,Medium,No,No,Low
+856,Kumasi-Ejisu Road,Ejisu Junction,Saturday,14:00,Midday,1,218,13.6,0,Good,Low,No,No,Low
+857,Kumasi-Accra Road,Kaase,Monday,19:45,Night,0,379,31.0,0,Poor,Medium,Yes,No,Medium
+858,Kumasi-Mampong Road,Mampong Junction,Sunday,17:45,Evening Peak,1,488,54.4,0,Good,High,Yes,No,High
+859,Kumasi-Accra Road,Oforikrom,Friday,13:30,Midday,0,319,40.4,1,Good,Low,No,No,Low
+860,Kumasi-Ejisu Road,Ejisu Junction,Thursday,14:00,Midday,0,486,51.0,0,Good,High,Yes,No,Low
+861,Kumasi-Mampong Road,Tafo,Thursday,08:30,Morning Peak,0,305,26.3,0,Good,High,Yes,No,Medium
+862,Kumasi-Ejisu Road,Ejisu Junction,Monday,17:30,Evening Peak,0,476,50.0,0,Poor,Medium,Yes,No,Medium
+863,Kumasi-Accra Road,Oforikrom,Saturday,22:00,Night,1,379,31.5,0,Good,Medium,Yes,No,Low
+864,Kumasi-Mampong Road,Mampong Junction,Thursday,10:30,Midday,0,394,46.7,1,Good,Low,No,No,Low
+865,Kumasi-Accra Road,Kaase,Sunday,09:15,Morning Peak,1,485,49.6,0,Fair,Medium,Yes,No,Medium
+866,Kumasi-Ejisu Road,KNUST Gate,Tuesday,07:15,Morning Peak,0,453,50.3,0,Good,Low,No,No,Low
+867,Kumasi-Ejisu Road,KNUST Gate,Wednesday,07:00,Morning Peak,0,848,75.8,0,Good,High,No,No,High
+868,Kumasi-Ejisu Road,Ejisu Junction,Sunday,15:00,Evening Peak,1,468,47.9,1,Poor,Medium,No,Yes,Medium
+869,Sunyani Road,Abrepo Junction,Saturday,08:45,Morning Peak,1,270,31.1,1,Fair,Low,No,No,Low
+870,Kumasi-Ejisu Road,Ayigya,Saturday,13:15,Midday,1,231,20.4,1,Good,Low,No,Yes,Medium
+871,Kumasi-Offinso Road,Techiman Junction,Monday,05:15,Early Morning,0,291,20.7,1,Good,Low,No,Yes,Low
+872,Kumasi-Accra Road,Oforikrom,Sunday,06:30,Early Morning,1,358,33.8,0,Fair,Low,Yes,No,Low
+873,Kumasi-Mampong Road,Tafo,Friday,06:30,Early Morning,0,306,31.4,0,Fair,Low,No,Yes,Low
+874,Kumasi-Ejisu Road,Ejisu Junction,Thursday,19:30,Night,0,373,37.5,0,Good,Medium,No,No,Low
+875,Kumasi-Offinso Road,Offinso Junction,Sunday,17:15,Evening Peak,1,335,23.1,0,Good,Medium,Yes,No,Medium
+876,Sunyani Road,Abrepo Junction,Friday,10:15,Midday,0,322,20.3,0,Poor,Low,No,No,Low
+877,Sunyani Road,Abrepo Junction,Monday,12:30,Midday,0,336,28.1,0,Fair,Medium,No,No,Low
+878,Kumasi-Ejisu Road,Ejisu Junction,Friday,08:00,Morning Peak,0,497,49.9,0,Good,Low,Yes,No,Medium
+879,Kumasi-Ejisu Road,KNUST Gate,Sunday,18:45,Evening Peak,1,424,47.0,0,Good,Low,Yes,No,Medium
+880,Kumasi-Ejisu Road,Ayigya,Sunday,05:45,Early Morning,1,247,18.4,0,Fair,Medium,No,No,Low
+881,Kumasi-Mampong Road,Mampong Junction,Friday,09:00,Morning Peak,0,490,39.7,0,Good,Medium,Yes,No,Medium
+882,Kumasi-Ejisu Road,Ayigya,Friday,08:45,Morning Peak,0,602,70.4,0,Good,Medium,Yes,No,High
+883,Kumasi-Offinso Road,Offinso Junction,Friday,19:15,Night,0,406,34.7,0,Good,High,No,No,Medium
+884,Sunyani Road,Tanoso,Wednesday,09:00,Morning Peak,0,720,59.8,1,Fair,High,Yes,Yes,High
+885,Sunyani Road,Tanoso,Saturday,09:30,Morning Peak,1,233,22.5,0,Good,Low,Yes,Yes,Medium
+886,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,06:00,Early Morning,0,454,40.5,1,Fair,Medium,No,No,Low
+887,Kumasi-Ejisu Road,Ejisu Junction,Sunday,07:45,Morning Peak,1,434,57.0,0,Good,Medium,Yes,No,Medium
+888,Kumasi-Ejisu Road,Ejisu Junction,Friday,05:45,Early Morning,0,484,34.1,1,Poor,Medium,No,No,Medium
+889,Kumasi-Accra Road,Oforikrom,Saturday,05:00,Early Morning,1,353,33.0,1,Poor,Medium,Yes,No,Low
+890,Kumasi-Ejisu Road,KNUST Gate,Tuesday,06:45,Early Morning,0,425,46.8,0,Fair,Low,No,Yes,Low
+891,Kumasi-Mampong Road,Tafo,Thursday,05:30,Early Morning,0,319,29.5,0,Good,Low,No,No,Low
+892,Kumasi-Ejisu Road,Ayigya,Thursday,16:45,Evening Peak,0,534,52.1,0,Fair,High,Yes,No,High
+893,Kumasi-Ejisu Road,KNUST Gate,Friday,19:45,Night,0,435,50.5,0,Fair,Medium,Yes,Yes,Medium
+894,Kumasi-Ejisu Road,Ejisu Junction,Thursday,19:00,Night,0,358,32.5,1,Fair,Low,No,No,Low
+895,Sunyani Road,Abrepo Junction,Wednesday,15:45,Evening Peak,0,537,46.3,0,Good,Low,Yes,Yes,Medium
+896,Sunyani Road,Tanoso,Monday,06:15,Early Morning,0,525,47.6,0,Good,High,Yes,Yes,Low
+897,Kumasi-Accra Road,Oforikrom,Tuesday,17:30,Evening Peak,0,634,66.4,1,Good,Medium,No,No,Medium
+898,Sunyani Road,Sofoline,Thursday,18:00,Evening Peak,0,637,55.4,0,Fair,Medium,No,No,Medium
+899,Kumasi-Accra Road,Kaase,Monday,18:30,Evening Peak,0,816,61.7,0,Fair,High,No,No,High
+900,Kumasi-Offinso Road,Offinso Junction,Wednesday,22:45,Night,0,304,34.1,0,Poor,Low,No,No,Low
+901,Kumasi-Offinso Road,Offinso Junction,Thursday,15:45,Evening Peak,0,517,54.5,0,Fair,High,Yes,No,Medium
+902,Kumasi-Ejisu Road,KNUST Gate,Tuesday,08:15,Morning Peak,0,681,60.7,1,Fair,High,No,No,Medium
+903,Sunyani Road,Tanoso,Wednesday,17:30,Evening Peak,0,602,59.7,1,Poor,High,Yes,No,High
+904,Sunyani Road,Sofoline,Monday,06:15,Early Morning,0,551,50.7,0,Fair,High,No,No,Medium
+905,Sunyani Road,Sofoline,Tuesday,15:30,Evening Peak,0,442,49.8,1,Fair,Medium,No,No,Medium
+906,Kumasi-Accra Road,Oforikrom,Sunday,05:45,Early Morning,1,342,32.1,0,Fair,Medium,No,Yes,Low
+907,Kumasi-Accra Road,Kaase,Thursday,09:45,Morning Peak,0,474,46.4,0,Good,Low,Yes,No,Low
+908,Kumasi-Offinso Road,Offinso Junction,Thursday,22:15,Night,0,429,47.9,1,Poor,High,No,No,Medium
+909,Kumasi-Mampong Road,Tafo,Saturday,20:30,Night,1,258,29.6,0,Good,Medium,Yes,No,Low
+910,Kumasi-Accra Road,Oforikrom,Thursday,08:00,Morning Peak,0,459,52.0,0,Good,Low,Yes,No,Low
+911,Kumasi-Ejisu Road,Ayigya,Wednesday,14:15,Midday,0,397,28.6,1,Good,Low,No,No,Low
+912,Kumasi-Mampong Road,Mampong Junction,Thursday,05:15,Early Morning,0,296,32.3,0,Fair,High,Yes,No,Low
+913,Kumasi-Offinso Road,Anloga Junction,Thursday,21:45,Night,0,305,42.4,0,Fair,Medium,Yes,No,Low
+914,Kumasi-Offinso Road,Offinso Junction,Friday,07:15,Morning Peak,0,735,83.6,1,Good,High,Yes,No,High
+915,Sunyani Road,Tanoso,Tuesday,10:00,Midday,0,447,35.5,0,Fair,Medium,No,No,Low
+916,Sunyani Road,Tanoso,Monday,14:15,Midday,0,460,34.9,1,Good,Medium,No,No,Low
+917,Kumasi-Accra Road,Asokwa,Wednesday,09:00,Morning Peak,0,648,58.8,0,Fair,Medium,No,No,Medium
+918,Kumasi-Ejisu Road,Ayigya,Sunday,12:15,Midday,1,342,33.2,1,Good,Medium,No,No,Medium
+919,Kumasi-Ejisu Road,Ayigya,Saturday,13:00,Midday,1,332,39.9,0,Good,Medium,Yes,No,Low
+920,Kumasi-Mampong Road,Mampong Junction,Tuesday,06:15,Early Morning,0,346,37.6,0,Good,Low,Yes,No,Low
+921,Kumasi-Ejisu Road,Ayigya,Sunday,05:15,Early Morning,1,317,40.4,0,Good,Low,No,No,Low
+922,Kumasi-Accra Road,Oforikrom,Tuesday,11:00,Midday,0,419,30.7,0,Good,High,No,No,Low
+923,Kumasi-Accra Road,Kaase,Thursday,08:00,Morning Peak,0,721,79.5,0,Poor,High,No,No,High
+924,Kumasi-Accra Road,Asokwa,Saturday,13:15,Midday,1,292,22.5,0,Fair,Low,Yes,No,Low
+925,Kumasi-Ejisu Road,KNUST Gate,Thursday,06:15,Early Morning,0,379,33.7,0,Good,Low,No,No,Low
+926,Kumasi-Offinso Road,Anloga Junction,Wednesday,19:15,Night,0,332,36.4,1,Fair,Medium,No,No,Low
+927,Kumasi-Ejisu Road,KNUST Gate,Tuesday,08:15,Morning Peak,0,507,48.8,0,Good,Low,Yes,No,Medium
+928,Kumasi-Ejisu Road,KNUST Gate,Sunday,06:30,Early Morning,1,375,33.9,0,Good,Medium,Yes,Yes,Low
+929,Kumasi-Offinso Road,Anloga Junction,Wednesday,10:00,Midday,0,306,23.7,0,Fair,Low,No,No,Low
+930,Kumasi-Offinso Road,Anloga Junction,Friday,15:45,Evening Peak,0,501,47.8,1,Fair,High,No,No,High
+931,Kumasi-Accra Road,Oforikrom,Tuesday,20:15,Night,0,373,38.3,0,Fair,Medium,Yes,No,Low
+932,Kumasi-Mampong Road,Suame,Monday,06:00,Early Morning,0,254,21.7,0,Poor,Low,Yes,No,Low
+933,Kumasi-Mampong Road,Tafo,Monday,06:00,Early Morning,0,357,32.1,0,Good,Low,Yes,No,Low
+934,Sunyani Road,Abrepo Junction,Saturday,17:30,Evening Peak,1,381,50.3,1,Poor,Medium,No,Yes,High
+935,Kumasi-Ejisu Road,Ayigya,Saturday,08:00,Morning Peak,1,482,51.4,1,Fair,Low,Yes,No,Medium
+936,Kumasi-Ejisu Road,Ejisu Junction,Wednesday,18:15,Evening Peak,0,733,72.3,1,Good,Medium,No,No,Medium
+937,Kumasi-Offinso Road,Techiman Junction,Tuesday,11:30,Midday,0,195,20.6,0,Fair,Low,Yes,No,Low
+938,Kumasi-Mampong Road,Tafo,Wednesday,18:00,Evening Peak,0,366,38.5,0,Fair,Low,No,No,Low
+939,Kumasi-Accra Road,Kaase,Friday,07:30,Morning Peak,0,885,72.4,1,Good,High,Yes,No,High
+940,Kumasi-Ejisu Road,KNUST Gate,Friday,21:00,Night,0,543,41.3,1,Fair,High,Yes,Yes,Medium
+941,Kumasi-Offinso Road,Anloga Junction,Friday,10:00,Midday,0,377,35.8,1,Good,Medium,Yes,Yes,Medium
+942,Kumasi-Mampong Road,Tafo,Wednesday,07:45,Morning Peak,0,321,27.4,0,Fair,Low,No,Yes,Low
+943,Sunyani Road,Sofoline,Sunday,14:00,Midday,1,268,24.3,0,Good,Low,No,No,Low
+944,Kumasi-Ejisu Road,KNUST Gate,Monday,17:15,Evening Peak,0,510,45.6,0,Good,Low,No,No,Low
+945,Sunyani Road,Abrepo Junction,Thursday,05:45,Early Morning,0,329,37.7,0,Fair,Low,Yes,No,Low
+946,Kumasi-Ejisu Road,Ejisu Junction,Thursday,12:15,Midday,0,479,37.4,0,Poor,High,No,No,Low
+947,Kumasi-Offinso Road,Anloga Junction,Friday,19:00,Night,0,423,37.7,0,Good,Medium,Yes,No,Low
+948,Kumasi-Ejisu Road,Ayigya,Thursday,20:00,Night,0,429,37.2,0,Poor,Medium,Yes,No,Medium
+949,Kumasi-Offinso Road,Anloga Junction,Sunday,06:45,Early Morning,1,223,28.2,0,Poor,Medium,Yes,No,Low
+950,Sunyani Road,Tanoso,Saturday,08:30,Morning Peak,1,552,52.4,1,Poor,Medium,No,No,High
+951,Kumasi-Mampong Road,Mampong Junction,Monday,14:00,Midday,0,384,30.0,1,Fair,Medium,Yes,No,Medium
+952,Kumasi-Ejisu Road,KNUST Gate,Thursday,18:30,Evening Peak,0,433,46.5,0,Good,Low,Yes,No,Medium
+953,Kumasi-Mampong Road,Tafo,Monday,15:00,Evening Peak,0,660,55.1,1,Good,Medium,Yes,No,High
+954,Kumasi-Accra Road,Oforikrom,Saturday,20:30,Night,1,327,34.5,0,Good,Low,Yes,No,Low
+955,Kumasi-Accra Road,Kaase,Friday,17:00,Evening Peak,0,542,62.3,0,Good,Low,No,No,Low
+956,Kumasi-Offinso Road,Anloga Junction,Friday,22:30,Night,0,355,37.9,1,Good,High,No,No,Low
+957,Kumasi-Offinso Road,Anloga Junction,Monday,22:30,Night,0,340,36.8,1,Good,Low,Yes,No,Low
+958,Kumasi-Offinso Road,Offinso Junction,Wednesday,11:15,Midday,0,395,36.5,0,Fair,High,Yes,No,Low
+959,Sunyani Road,Tanoso,Monday,14:00,Midday,0,406,31.0,0,Good,Medium,Yes,No,Low
+960,Kumasi-Accra Road,Kaase,Friday,14:30,Midday,0,330,31.7,0,Good,Medium,Yes,No,Low
+961,Kumasi-Mampong Road,Suame,Wednesday,13:45,Midday,0,346,40.3,0,Good,Medium,Yes,No,Low
+962,Sunyani Road,Abrepo Junction,Monday,22:15,Night,0,656,66.4,1,Fair,High,No,No,Medium
+963,Sunyani Road,Abrepo Junction,Monday,19:00,Night,0,310,28.8,1,Good,Low,Yes,No,Low
+964,Kumasi-Offinso Road,Anloga Junction,Monday,08:15,Morning Peak,0,375,29.7,0,Good,Low,Yes,No,Medium
+965,Kumasi-Mampong Road,Suame,Sunday,19:45,Night,1,263,26.4,0,Good,Medium,Yes,No,Low
+966,Kumasi-Accra Road,Oforikrom,Saturday,16:00,Evening Peak,1,352,31.6,1,Good,Medium,Yes,No,Medium
+967,Kumasi-Mampong Road,Mampong Junction,Saturday,19:15,Night,1,344,29.9,0,Good,Medium,No,No,Low
+968,Kumasi-Mampong Road,Mampong Junction,Saturday,16:15,Evening Peak,1,229,17.3,0,Fair,Low,Yes,No,Medium
+969,Kumasi-Ejisu Road,Ayigya,Tuesday,09:15,Morning Peak,0,602,54.9,1,Good,Low,No,No,Medium
+970,Kumasi-Ejisu Road,KNUST Gate,Monday,12:00,Midday,0,388,32.8,1,Fair,Low,Yes,Yes,Low
+971,Sunyani Road,Abrepo Junction,Tuesday,12:30,Midday,0,376,32.5,0,Good,Low,Yes,No,Low
+972,Kumasi-Offinso Road,Anloga Junction,Tuesday,05:15,Early Morning,0,413,43.2,0,Good,Medium,Yes,No,Low
+973,Kumasi-Offinso Road,Techiman Junction,Monday,22:30,Night,0,308,31.7,0,Good,Medium,Yes,No,Low
+974,Sunyani Road,Tanoso,Wednesday,20:15,Night,0,312,35.2,0,Good,Low,No,No,Low
+975,Kumasi-Mampong Road,Mampong Junction,Thursday,19:00,Night,0,423,33.7,1,Good,High,Yes,No,Low
+976,Sunyani Road,Sofoline,Wednesday,05:30,Early Morning,0,381,45.7,0,Good,Low,Yes,No,Low
+977,Kumasi-Offinso Road,Techiman Junction,Wednesday,14:45,Midday,0,288,27.1,0,Good,Medium,Yes,No,Low
+978,Sunyani Road,Abrepo Junction,Thursday,15:30,Evening Peak,0,358,34.9,0,Fair,Low,Yes,Yes,Medium
+979,Kumasi-Mampong Road,Mampong Junction,Thursday,11:30,Midday,0,441,43.5,0,Good,High,Yes,No,Low
+980,Kumasi-Offinso Road,Offinso Junction,Tuesday,18:15,Evening Peak,0,634,55.2,0,Good,High,Yes,No,High
+981,Sunyani Road,Tanoso,Tuesday,22:00,Night,0,442,35.3,0,Good,Medium,No,No,Low
+982,Kumasi-Accra Road,Oforikrom,Monday,05:15,Early Morning,0,413,36.2,1,Good,Medium,No,No,Low
+983,Sunyani Road,Tanoso,Thursday,06:00,Early Morning,0,349,45.8,0,Good,Low,No,No,Low
+984,Kumasi-Mampong Road,Mampong Junction,Tuesday,16:00,Evening Peak,0,437,43.3,1,Fair,Low,No,No,Low
+985,Kumasi-Ejisu Road,KNUST Gate,Thursday,06:45,Early Morning,0,482,31.1,0,Good,Medium,Yes,No,Low
+986,Kumasi-Offinso Road,Techiman Junction,Friday,20:15,Night,0,344,32.6,0,Good,Medium,Yes,No,Low
+987,Kumasi-Mampong Road,Tafo,Wednesday,16:45,Evening Peak,0,355,39.8,0,Good,Low,Yes,No,Low
+988,Kumasi-Ejisu Road,Ayigya,Friday,14:45,Midday,0,373,32.6,0,Good,Low,Yes,No,Low
+989,Sunyani Road,Tanoso,Friday,20:45,Night,0,421,28.5,0,Good,Medium,No,No,Low
+990,Kumasi-Mampong Road,Suame,Friday,05:00,Early Morning,0,537,63.5,0,Good,High,Yes,Yes,Medium
+991,Kumasi-Mampong Road,Tafo,Monday,05:45,Early Morning,0,364,31.3,0,Poor,Medium,Yes,Yes,Low
+992,Kumasi-Ejisu Road,Ayigya,Sunday,09:45,Morning Peak,1,347,30.5,1,Good,Low,No,No,Medium
+993,Kumasi-Offinso Road,Anloga Junction,Monday,06:30,Early Morning,0,328,34.2,1,Good,Low,Yes,No,Low
+994,Kumasi-Accra Road,Asokwa,Tuesday,09:00,Morning Peak,0,711,69.9,0,Good,Medium,Yes,No,High
+995,Sunyani Road,Tanoso,Wednesday,15:45,Evening Peak,0,727,80.3,0,Good,High,Yes,No,High
+996,Kumasi-Accra Road,Kaase,Saturday,09:45,Morning Peak,1,372,31.4,0,Good,Low,Yes,No,Low
+997,Kumasi-Ejisu Road,Ayigya,Tuesday,13:45,Midday,0,541,46.3,0,Good,High,Yes,No,Low
+998,Kumasi-Accra Road,Asokwa,Thursday,16:30,Evening Peak,0,531,47.3,1,Fair,Low,No,No,Medium
+999,Kumasi-Mampong Road,Tafo,Saturday,15:30,Evening Peak,1,390,37.2,0,Poor,High,Yes,Yes,High
+1000,Kumasi-Mampong Road,Tafo,Friday,06:00,Early Morning,0,464,50.3,0,Good,High,No,No,Low
